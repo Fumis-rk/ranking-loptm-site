@@ -1,0 +1,3830 @@
+[
+    {
+        "nome": "Gisela Maria Santos Bronze",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 340
+    },
+    {
+        "nome": "Jessica Silva Prates",
+        "equipe": "ASSOCIAÇÃO NIKKEY SÃO JOSÉ DOS CAMPOS - SP",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 260
+    },
+    {
+        "nome": "Giovana Marinatto Da Silva",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 125
+    },
+    {
+        "nome": "Betina Gabriella Motta Bueno",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 125
+    },
+    {
+        "nome": "Priscila Fernanda Alves",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 90
+    },
+    {
+        "nome": "Sigrid Ane Santana",
+        "equipe": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 90
+    },
+    {
+        "nome": "Fernanda Maki Tanaka",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 80
+    },
+    {
+        "nome": "Lorena Ingegneri Monteiro De Castro",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 75
+    },
+    {
+        "nome": "Marina Arita Falha",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 75
+    },
+    {
+        "nome": "Gabrielle Lu Fan",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 60
+    },
+    {
+        "nome": "Ana Claudia Cressoni De Conti",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 45
+    },
+    {
+        "nome": "Kathleen Caroline De Oliveira Campos",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 45
+    },
+    {
+        "nome": "Sarah Alves Gomes Da Silva",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 45
+    },
+    {
+        "nome": "Thalita Tiemi Kubo Nabeshima",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 35
+    },
+    {
+        "nome": "Lara Pereira De Souza",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 25
+    },
+    {
+        "nome": "Luana Tiemi Taniguti",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 25
+    },
+    {
+        "nome": "Karolen Santana Rossi",
+        "equipe": "NEW PONG - SÃO JOSÉ DO RIO PRETO/SP - ACADEMIA DE TÊNIS DE MESA",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 25
+    },
+    {
+        "nome": "Paula Tamara Ikeda Zaith",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 20
+    },
+    {
+        "nome": "Nathália Machado Ortolano",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 20
+    },
+    {
+        "nome": "Carolina Colla Ferro",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 10
+    },
+    {
+        "nome": "Melissa Kazumi Hyodo",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 10
+    },
+    {
+        "nome": "Luana De Lima",
+        "equipe": "NEW PONG - SÃO JOSÉ DO RIO PRETO/SP - ACADEMIA DE TÊNIS DE MESA",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 10
+    },
+    {
+        "nome": "Dyovanna Malta Bistaffa",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "ABSOLUTO A (FEM)",
+        "total": 10
+    },
+    {
+        "nome": "João Pedro Ribeiro Mira",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 470
+    },
+    {
+        "nome": "Breno Panini Souza",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 290
+    },
+    {
+        "nome": "Bruno Henrique Pimentel",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 160
+    },
+    {
+        "nome": "Lucas Bispo Dos Santos",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 120
+    },
+    {
+        "nome": "Felipe Antoniazzi De Oliveira",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 120
+    },
+    {
+        "nome": "Fábio Jorge Viccari",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 115
+    },
+    {
+        "nome": "Khristopher Keiske Ogasawara",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 90
+    },
+    {
+        "nome": "Matheus L Silva",
+        "equipe": "BIRIGUI",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 70
+    },
+    {
+        "nome": "Alexandre Jorge Ribeiro",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 70
+    },
+    {
+        "nome": "Luan Pagliari De Brito",
+        "equipe": "MIRASSOL TENIS DE MESA",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 45
+    },
+    {
+        "nome": "Luiz Da Silva Ribeiro Junior",
+        "equipe": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 45
+    },
+    {
+        "nome": "Hélio Sadao Takasu",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 45
+    },
+    {
+        "nome": "Alan Tajero",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 40
+    },
+    {
+        "nome": "Cauan Silva E Sousa",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 40
+    },
+    {
+        "nome": "Étore Vinícius Lazarini",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 40
+    },
+    {
+        "nome": "Felipe Pereira Rosa",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 40
+    },
+    {
+        "nome": "João Victor Tolardo Ferreira",
+        "equipe": "DRACENA TM-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 40
+    },
+    {
+        "nome": "Lucas  Guedes  Lanza",
+        "equipe": "TM ÁLVARES MACHADO-LIGA-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 40
+    },
+    {
+        "nome": "Matheus Bazichetto Martins Dos Passos",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 40
+    },
+    {
+        "nome": "Murilo Feliciano Oliveira",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 40
+    },
+    {
+        "nome": "Rodrigo Milane Silva",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 40
+    },
+    {
+        "nome": "César Cremonezi",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 30
+    },
+    {
+        "nome": "João Pedro Nunes Machado",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 30
+    },
+    {
+        "nome": "Leonardo Pereira Tamelini",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 30
+    },
+    {
+        "nome": "João Vitor Anhê Peres",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 30
+    },
+    {
+        "nome": "Felipe Bondi Gravatim",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 30
+    },
+    {
+        "nome": "Antonio Vinicius Tsuyoshi Araki",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 30
+    },
+    {
+        "nome": "Guilherme Cesar Ferreira Furtado",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 25
+    },
+    {
+        "nome": "Lucas Nelington De Oliveira Paula",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 25
+    },
+    {
+        "nome": "Anderson Figueiredo Santos",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 20
+    },
+    {
+        "nome": "Joao Vitor Ferreira De Souza",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 20
+    },
+    {
+        "nome": "André En Lih Liang",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 20
+    },
+    {
+        "nome": "Caetano Moraes Cavedal",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 20
+    },
+    {
+        "nome": "Caio Xanddy Moltocaro Da Silva",
+        "equipe": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 20
+    },
+    {
+        "nome": "Guilherme Manfio",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 20
+    },
+    {
+        "nome": "Guilherme Matheus  De Paris",
+        "equipe": "ARTM/ACER - ROLÂNDIA - PR",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 20
+    },
+    {
+        "nome": "Rafael Andrade Franco",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 20
+    },
+    {
+        "nome": "Danilo De Moura Lima",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 20
+    },
+    {
+        "nome": "Jose Roberto Geris Da Costa",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 20
+    },
+    {
+        "nome": "Misael Da Silva",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 20
+    },
+    {
+        "nome": "Fernando Dos Santos  Silva",
+        "equipe": "BIRIGUI",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 20
+    },
+    {
+        "nome": "Andre Figueiredo Dos Santos",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 10
+    },
+    {
+        "nome": "Iury Raphael Reze Jodas",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 10
+    },
+    {
+        "nome": "Leonardo Santana Serdan",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 10
+    },
+    {
+        "nome": "Alison Beltramin",
+        "equipe": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 10
+    },
+    {
+        "nome": "Gabriel Contiero Battistam",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 10
+    },
+    {
+        "nome": "Tiago Montanha Basso",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 10
+    },
+    {
+        "nome": "Tiago Silva Kakeya",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 10
+    },
+    {
+        "nome": "Giovane Ferreira Da Silva",
+        "equipe": "MIRASSOL TENIS DE MESA",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 10
+    },
+    {
+        "nome": "Joao Pedro Yukio Ishida",
+        "equipe": "TM ÁLVARES MACHADO-LIGA-SP",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 10
+    },
+    {
+        "nome": "Nicolas Dos Santos Lourenço",
+        "equipe": "MIRASSOL TENIS DE MESA",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 10
+    },
+    {
+        "nome": "Gabriel Vinicius Lopes Dos Santos",
+        "equipe": "TÊNIS DE MESA DE VOTUPORANGA-LIGA",
+        "categoria": "ABSOLUTO A (MAS)",
+        "total": 0
+    },
+    {
+        "nome": "Natalia Yuri Arakaki",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "LADY 30",
+        "total": 340
+    },
+    {
+        "nome": "Angela Cristina De Oliveira Marques",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "LADY 30",
+        "total": 300
+    },
+    {
+        "nome": "Isabela Cristina Vizoni",
+        "equipe": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+        "categoria": "LADY 30",
+        "total": 290
+    },
+    {
+        "nome": "Sara Eliza Pinheiro",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "LADY 30",
+        "total": 140
+    },
+    {
+        "nome": "Érica Fusako Marumoto",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "LADY 30",
+        "total": 115
+    },
+    {
+        "nome": "Lilian Dos Santos Cardoso",
+        "equipe": "BIRIGUI",
+        "categoria": "LADY 30",
+        "total": 75
+    },
+    {
+        "nome": "Marta Aparecida Machado",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "LADY 30",
+        "total": 75
+    },
+    {
+        "nome": "Bianca Chrystine Da Silva Watanabe",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "LADY 30",
+        "total": 45
+    },
+    {
+        "nome": "Priscila Galbiatti Vespa Imamura",
+        "equipe": "NEW PONG - SÃO JOSÉ DO RIO PRETO/SP - ACADEMIA DE TÊNIS DE MESA",
+        "categoria": "LADY 30",
+        "total": 45
+    },
+    {
+        "nome": "Jany Lucia Mantovan Yassuda",
+        "equipe": "NEW PONG - SÃO JOSÉ DO RIO PRETO/SP - ACADEMIA DE TÊNIS DE MESA",
+        "categoria": "LADY 30",
+        "total": 25
+    },
+    {
+        "nome": "Gabriela Dell Aringa De Araujo",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-09 FEM",
+        "total": 520
+    },
+    {
+        "nome": "Lizzy Sanches Tohyama",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-09 FEM",
+        "total": 320
+    },
+    {
+        "nome": "Ana Clara Abrucezzi Coqueiro",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-09 FEM",
+        "total": 140
+    },
+    {
+        "nome": "Manuella Tassi Bazo",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-09 FEM",
+        "total": 90
+    },
+    {
+        "nome": "Elisa Fernandes De Souza",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-09 FEM",
+        "total": 70
+    },
+    {
+        "nome": "Beatriz Kaori Nagae Miyashiro",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-09 FEM",
+        "total": 45
+    },
+    {
+        "nome": "Gabriela Gama Pavan",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-09 FEM",
+        "total": 45
+    },
+    {
+        "nome": "Jhenifer Garcia Da Silva",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-09 FEM",
+        "total": 25
+    },
+    {
+        "nome": "João Pedro Martins Carvalho",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-09 MAS",
+        "total": 520
+    },
+    {
+        "nome": "Felipe Xavier Dos Santos",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-09 MAS",
+        "total": 170
+    },
+    {
+        "nome": "Otávio Grandini Figueiredo Martins",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-09 MAS",
+        "total": 150
+    },
+    {
+        "nome": "Isaac Eduardo Maria Barbosa",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-09 MAS",
+        "total": 125
+    },
+    {
+        "nome": "Ryan Daniel Prato Lopes",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-09 MAS",
+        "total": 85
+    },
+    {
+        "nome": "Noah Quagliato Breve",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-09 MAS",
+        "total": 80
+    },
+    {
+        "nome": "Davi Magnani Rodrigues Padula",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-09 MAS",
+        "total": 80
+    },
+    {
+        "nome": "Miguel Faria De Araujo",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-09 MAS",
+        "total": 70
+    },
+    {
+        "nome": "Rafael Hilla",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "SUB-09 MAS",
+        "total": 50
+    },
+    {
+        "nome": "Antônio Quagliato Porto",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-09 MAS",
+        "total": 45
+    },
+    {
+        "nome": "Bento Storniolo De Souza",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-09 MAS",
+        "total": 25
+    },
+    {
+        "nome": "Antonio Luca Silverio",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-09 MAS",
+        "total": 25
+    },
+    {
+        "nome": "Felipe André Franciscani",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-09 MAS",
+        "total": 25
+    },
+    {
+        "nome": "Breno Henrique Borges De Paula",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-09 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Jorge Miguel Venâncio Gregório",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-09 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Joshua Carelli Bento",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-09 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Yago Augusto Lopes Barbosa",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-09 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Diego De Araujo Moura Gouveia",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "SUB-09 Mas",
+        "total": 115
+    },
+    {
+        "nome": "Caroline Messias Loureiro",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-11 FEM",
+        "total": 420
+    },
+    {
+        "nome": "Julia Brabo Silva",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-11 FEM",
+        "total": 335
+    },
+    {
+        "nome": "Ana Clara De Oliveira Macêra",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-11 FEM",
+        "total": 180
+    },
+    {
+        "nome": "Luiza Beltrame Santos",
+        "equipe": "ASSOC.JAUENSE DE T.M./PREFEITURA DE JAÚ-SP",
+        "categoria": "SUB-11 FEM",
+        "total": 130
+    },
+    {
+        "nome": "Laura De Oliveira Colombo",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-11 FEM",
+        "total": 120
+    },
+    {
+        "nome": "Ayla Miwa Miyagui Oku",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "SUB-11 FEM",
+        "total": 95
+    },
+    {
+        "nome": "Maria Paula Soares Pistori",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-11 FEM",
+        "total": 75
+    },
+    {
+        "nome": "Melissa Shiro Taniguchi",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "SUB-11 FEM",
+        "total": 70
+    },
+    {
+        "nome": "Kauani Souza Belloto",
+        "equipe": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+        "categoria": "SUB-11 FEM",
+        "total": 50
+    },
+    {
+        "nome": "Ana Laura E Almeida",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-11 FEM",
+        "total": 45
+    },
+    {
+        "nome": "Maria Luiza Silvestrini",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-11 FEM",
+        "total": 25
+    },
+    {
+        "nome": "Lais Sussel Dias",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-11 FEM",
+        "total": 25
+    },
+    {
+        "nome": "Antônio Lorenzo Norberto Santana De Souza",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 520
+    },
+    {
+        "nome": "Miguel Chagas De Almeida",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 170
+    },
+    {
+        "nome": "Benjamin Hilla",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 160
+    },
+    {
+        "nome": "Igor Fernandes Orlando",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 160
+    },
+    {
+        "nome": "Heitor Kenzo Vespa Imamura",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 160
+    },
+    {
+        "nome": "Lucas Castelli Tahara",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-11 MAS",
+        "total": 105
+    },
+    {
+        "nome": "Tiago Yera Nakajum",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 90
+    },
+    {
+        "nome": "Kaio Augusto Ferreira De Araújo",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 60
+    },
+    {
+        "nome": "Davi Teodoro De Lima",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 45
+    },
+    {
+        "nome": "Guilherme Barbosa Da Silva Santos",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 45
+    },
+    {
+        "nome": "Henrique Mesquita Serva Reis",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 45
+    },
+    {
+        "nome": "Luan Leonardi",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Miguel Kengi Mantovan Yassuda",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Nicollas Gabriel Pego",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Pedro Henrique Araujo",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Arthur Masato Nobuyasu Vasconcelos",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 35
+    },
+    {
+        "nome": "Oliver Manzini Almeida",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "SUB-11 MAS",
+        "total": 35
+    },
+    {
+        "nome": "Henrique Clemente Paião",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-11 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Lorenzo Antônio Munefiça",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 25
+    },
+    {
+        "nome": "Mathias Batista Batistela Gentil",
+        "equipe": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 25
+    },
+    {
+        "nome": "Enrico Esteves Stevanato",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 25
+    },
+    {
+        "nome": "Vitor Lacava De Brito",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 25
+    },
+    {
+        "nome": "Benício Souza Amaral",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Guilherme Augusto De Oliveira Da Silva",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Samuel Gonçalves Galego",
+        "equipe": "BIRIGUI",
+        "categoria": "SUB-11 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Bernardo Henrique Borges De Paula",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Filipi Moraes Costa",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Gabriel Montechiesi Maldonado",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Miguel Maldonado Da Guia Rosa",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Rafael Taiar Barbosa",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-11 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Augusto Fernoval Da Silva Justo",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-11 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Davi Miguel Ribeiro De Souza",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-11 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Francisco Melios Cruz",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-11 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Sophia Pinheiro Miranda",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-13 FEM",
+        "total": 420
+    },
+    {
+        "nome": "Agatha De Oliveira Rodrigues",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-13 FEM",
+        "total": 340
+    },
+    {
+        "nome": "Eva Gabriella Griao Fukasawa",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "SUB-13 FEM",
+        "total": 180
+    },
+    {
+        "nome": "Ana Clara Silva Moraes",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-13 FEM",
+        "total": 160
+    },
+    {
+        "nome": "Rhebeka Paderes De Souza",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-13 FEM",
+        "total": 120
+    },
+    {
+        "nome": "Yukina Nicole De Santana Ogihara",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-13 FEM",
+        "total": 100
+    },
+    {
+        "nome": "Isadora Ramos D' Elia",
+        "equipe": "MIRASSOL TENIS DE MESA",
+        "categoria": "SUB-13 FEM",
+        "total": 80
+    },
+    {
+        "nome": "Alice Akemi Babichi Tanaka",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-13 FEM",
+        "total": 75
+    },
+    {
+        "nome": "Lays Dubowiski Mioto",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-13 FEM",
+        "total": 25
+    },
+    {
+        "nome": "Clara Martinho De Lazari Motta",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "SUB-13 FEM",
+        "total": 25
+    },
+    {
+        "nome": "Helena Lopes Assem",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-13 FEM",
+        "total": 25
+    },
+    {
+        "nome": "Maria Luiza Pasqualini Ramos",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-13 FEM",
+        "total": 10
+    },
+    {
+        "nome": "Gabriel José Menezes Balbino Pereira",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 435
+    },
+    {
+        "nome": "Gabriel Fachini Maia",
+        "equipe": "BIRIGUI",
+        "categoria": "SUB-13 MAS",
+        "total": 265
+    },
+    {
+        "nome": "Felipe Barros Messias",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 230
+    },
+    {
+        "nome": "Yan Fellipe Gonçalves Mandu",
+        "equipe": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+        "categoria": "SUB-13 MAS",
+        "total": 150
+    },
+    {
+        "nome": "Guilherme Fonseca Santos",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 140
+    },
+    {
+        "nome": "Mateus Kenji Tashiro",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-13 MAS",
+        "total": 120
+    },
+    {
+        "nome": "João Eduardo Ribeiro Mira",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 70
+    },
+    {
+        "nome": "Samuel Davi Martins",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 70
+    },
+    {
+        "nome": "Lucas M Marques",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 65
+    },
+    {
+        "nome": "Nathan Sônego Araújo",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-13 MAS",
+        "total": 55
+    },
+    {
+        "nome": "Caio Henrique Messias Loureiro",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 55
+    },
+    {
+        "nome": "Deivid Senturião Frota Dos Santos",
+        "equipe": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+        "categoria": "SUB-13 MAS",
+        "total": 45
+    },
+    {
+        "nome": "Davi Da Silva Ramos",
+        "equipe": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+        "categoria": "SUB-13 MAS",
+        "total": 45
+    },
+    {
+        "nome": "Breno Lucindo Da Silva",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 45
+    },
+    {
+        "nome": "Arthur Fernandes Bissoli",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Breno Eugenio Da Silva Mauro",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-13 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Carlos Daniel Prates Miguel",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Carlos Eduardo Giroldo Rosignolli",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Enrico Granella De Souza",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Gustavo Da Silva Freitas",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-13 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Jefferson Felipe Gonçalves Lino",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Lucas Rafael Da Cruz Ribeiro.",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Marcio Akira Rodrigues Iwata",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-13 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Nicholas Sônego Araújo",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-13 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Nicolas Bertoncelo",
+        "equipe": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Lorenço De Paula Infante",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Noah Nabeya Nishimura",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "SUB-13 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Pedro Da Costa Prdraça",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Samuel Ferreira Lima Rodrigues",
+        "equipe": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+        "categoria": "SUB-13 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Antonio Melios Cruz",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-13 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Eduardo Montezano Pereira",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "SUB-13 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Isaac Arruda Antunes",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-13 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Gabriel Henrique Varotto Bove",
+        "equipe": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Alejandro Soprani Sousa Santos",
+        "equipe": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+        "categoria": "SUB-13 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Pietro Domingos Bertoldi",
+        "equipe": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+        "categoria": "SUB-13 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Rafael Correia Guitierres",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Mathias Felipe Dos Reis",
+        "equipe": "DRACENA TM-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Arthur Lopes Favarin Da Silva",
+        "equipe": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+        "categoria": "SUB-13 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Erick Rafael Rodrigues Lima",
+        "equipe": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+        "categoria": "SUB-13 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Gabriel Rodrigues Basso",
+        "equipe": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+        "categoria": "SUB-13 MAS",
+        "total": 20
+    },
+    {
+        "nome": "José Eduardo Ortega Valério",
+        "equipe": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+        "categoria": "SUB-13 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Matheus Alves De Oliveira",
+        "equipe": "BIRIGUI",
+        "categoria": "SUB-13 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Renato Oliveira De Almeida",
+        "equipe": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+        "categoria": "SUB-13 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Bilal Hawari",
+        "equipe": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Cauã Vieira De Lacerda",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Jorge Luciano Rocha",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Mateus Alves Belai",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Mateus Violante Nogueira",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Nicolas Gonçalves Xavier",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Thiago Gois Padula",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Leonardo Sato Ceballos",
+        "equipe": "DRACENA TM-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Enzo Paschoalino Ceciliato Vasques",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Joao Victor Garcia Da Silva",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Lucas Paschoalino Ceciliato Vasques",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Otavio Luca Silverio Tomilheiro",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Domynnyke Marques Da Silva",
+        "equipe": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Enzo Fernandes Spacca",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Giovanni Berriel Vidotti",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Guilherme Shimizu Sasasaki",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Ian Kenzo Narimatsu",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Miguel Chagas De Almeida",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Rafael Pandolpho Stavarengo",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Vinicius Shindi Sasasazaki Ikeda",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Arthur Possani Morales",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Cláudio Roberto Leal Filho",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Enzo Venancio Araujo",
+        "equipe": "BIRIGUI-SP",
+        "categoria": "SUB-13 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Mariana Fuzinato Pina Modesto",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-15 FEM",
+        "total": 390
+    },
+    {
+        "nome": "Maria Fernanda Charantola",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-15 FEM",
+        "total": 335
+    },
+    {
+        "nome": "Isis Sanches Tohyama",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-15 FEM",
+        "total": 250
+    },
+    {
+        "nome": "Sarah Vitória De Lima Teixeira",
+        "equipe": "BIRIGUI",
+        "categoria": "SUB-15 FEM",
+        "total": 115
+    },
+    {
+        "nome": "Daniela Harue Kamikihara",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-15 FEM",
+        "total": 95
+    },
+    {
+        "nome": "Agnys Cardoso Silva",
+        "equipe": "BIRIGUI",
+        "categoria": "SUB-15 FEM",
+        "total": 95
+    },
+    {
+        "nome": "Mariana Fonseca Santos",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "SUB-15 FEM",
+        "total": 70
+    },
+    {
+        "nome": "Esther Rodrigues",
+        "equipe": "ASSOCIAÇÃO KOBU-KAN DE ESPORTES-SP",
+        "categoria": "SUB-15 FEM",
+        "total": 55
+    },
+    {
+        "nome": "Kimberlly Cristiane De Aquino Cambuhy",
+        "equipe": "ASSOCIAÇÃO KOBU-KAN DE ESPORTES-SP",
+        "categoria": "SUB-15 FEM",
+        "total": 50
+    },
+    {
+        "nome": "Júlia Belloto Siqueira",
+        "equipe": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+        "categoria": "SUB-15 FEM",
+        "total": 35
+    },
+    {
+        "nome": "Maria Carla Barboza Do Vale",
+        "equipe": "DRACENA TM-SP",
+        "categoria": "SUB-15 FEM",
+        "total": 35
+    },
+    {
+        "nome": "Júlia Marçal Leres",
+        "equipe": "MIRASSOL TENIS DE MESA",
+        "categoria": "SUB-15 FEM",
+        "total": 25
+    },
+    {
+        "nome": "Lara Gabrielly Souza Da Silva",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "SUB-15 FEM",
+        "total": 25
+    },
+    {
+        "nome": "Manuela Carvalho Dos Santos",
+        "equipe": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+        "categoria": "SUB-15 FEM",
+        "total": 20
+    },
+    {
+        "nome": "Livia Fernanda Mestrinari",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "SUB-15 FEM",
+        "total": 10
+    },
+    {
+        "nome": "Beatriz Lopes Da Silva",
+        "equipe": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+        "categoria": "SUB-15 FEM",
+        "total": 10
+    },
+    {
+        "nome": "Margaret Nadine Ponce Cule",
+        "equipe": "NEW PONG - SÃO JOSÉ DO RIO PRETO/SP - ACADEMIA DE TÊNIS DE MESA",
+        "categoria": "SUB-15 FEM",
+        "total": 10
+    },
+    {
+        "nome": "Pietra Teixeira Pereira Pupim",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "SUB-15 FEM",
+        "total": 10
+    },
+    {
+        "nome": "Sophia Griao Barroca",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "SUB-15 FEM",
+        "total": 10
+    },
+    {
+        "nome": "Gabriel Guilherme Mendes",
+        "equipe": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 315
+    },
+    {
+        "nome": "Leonardo Amaku Ishikawa",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 205
+    },
+    {
+        "nome": "Vitor Paceli Ribeiro Junior",
+        "equipe": "BIRIGUI",
+        "categoria": "SUB-15 MAS",
+        "total": 195
+    },
+    {
+        "nome": "Luca Esteves Magalhães",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 150
+    },
+    {
+        "nome": "William Eduardo Resende Bussom",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 130
+    },
+    {
+        "nome": "Miguel Santana Dona",
+        "equipe": "BIRIGUI",
+        "categoria": "SUB-15 MAS",
+        "total": 130
+    },
+    {
+        "nome": "Lucas Matheus Da Silva Ribeiro",
+        "equipe": "DRACENA TM-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 75
+    },
+    {
+        "nome": "Enzo Castrioto De Paula",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-15 MAS",
+        "total": 70
+    },
+    {
+        "nome": "Luiz Guilherme Ribeiro Queiroz",
+        "equipe": "ASSOCIAÇÃO KOBU-KAN DE ESPORTES-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 70
+    },
+    {
+        "nome": "Jose Claudio Magalhaes Reis",
+        "equipe": "BIRIGUI",
+        "categoria": "SUB-15 MAS",
+        "total": 65
+    },
+    {
+        "nome": "Leonardo Porciúncula Abbondanza",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 55
+    },
+    {
+        "nome": "Victor Hugo Rodrigues Alves",
+        "equipe": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 55
+    },
+    {
+        "nome": "Guilherme Dos Santos Oliveira",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 55
+    },
+    {
+        "nome": "Matheus Mologni Dos Santos",
+        "equipe": "ACADEMIA FITPONG DE TÊNIS DE MESA-PR",
+        "categoria": "SUB-15 MAS",
+        "total": 45
+    },
+    {
+        "nome": "Fernando Puerto Basso",
+        "equipe": "ASSOCIAÇÃO RCTM - SP",
+        "categoria": "SUB-15 MAS",
+        "total": 45
+    },
+    {
+        "nome": "Ruan Agostinho Curto",
+        "equipe": "BIRIGUI",
+        "categoria": "SUB-15 MAS",
+        "total": 45
+    },
+    {
+        "nome": "Caetano Lopes Assem",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Caio Rodrigues Carvalho",
+        "equipe": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Carlos Henrique Micadei Junior",
+        "equipe": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Daniel Batista De Souza Fernandes",
+        "equipe": "DRACENA TM-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Ellivelton Miranda Do Nascimento Junior",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Enzo Hiroshi Marumoto Valentin",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Felipe Antônio De Oliveira",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Felipe Castellano Santos",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Filipi De Arruda Pereira",
+        "equipe": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Hugo Delai Ferreira Santos",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Jean Chaves Rocha",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 40
+    },
+    {
+        "nome": "João Pedro Almagro Dos Santos Pereira",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Kelwenn Guassú Da Silva",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Leonardo Leonardi",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Lucas Tortola Rodrigues Pires",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Luiz Gustavo Da Silva",
+        "equipe": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Miguel Albieri Pigozzi",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Miguel Losnak Plana",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Vinicius Bertassi Panes",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Willian Gomes Pinheiro",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Matheus De Oliveira Santos",
+        "equipe": "TÊNIS DE MESA DE VOTUPORANGA-LIGA",
+        "categoria": "SUB-15 MAS",
+        "total": 35
+    },
+    {
+        "nome": "Matheus Henrique Santos Torregrosa",
+        "equipe": "ASSOCIAÇÃO KOBU-KAN DE ESPORTES-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 35
+    },
+    {
+        "nome": "Miguel Lista Saito",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "SUB-15 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Nicolas Nabeya Nishimura",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "SUB-15 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Pedro Henrique Dos Santos De Santana",
+        "equipe": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+        "categoria": "SUB-15 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Adam Mataragia De Carvalho",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 30
+    },
+    {
+        "nome": "João Pedro Possas Guimarães",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "SUB-15 MAS",
+        "total": 30
+    },
+    {
+        "nome": "João Pedro Silva De Moura",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Augusto Machi Bertucci",
+        "equipe": "BIRIGUI",
+        "categoria": "SUB-15 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Gabriel Willian Ragassi De Araujo",
+        "equipe": "DRACENA TM-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Matheus Luiz De Oliveira Miranda",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Matheus Martins De Abreu",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-15 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Gabriel Henrique Braga Augusto",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 25
+    },
+    {
+        "nome": "Benjamin Martinez Tsen",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "SUB-15 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Henrique Augusto Bicok Dos Santos",
+        "equipe": "TÊNIS DE MESA DE VOTUPORANGA-LIGA",
+        "categoria": "SUB-15 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Bruno Kaue Souza Belloto",
+        "equipe": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+        "categoria": "SUB-15 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Cauã Gabriel Flores De Lima",
+        "equipe": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+        "categoria": "SUB-15 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Gabriel José Targon Rodrigues",
+        "equipe": "ASSOCIAÇÃO KOBU-KAN DE ESPORTES-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 20
+    },
+    {
+        "nome": "João Vittor Alcantara De Souza",
+        "equipe": "ASSOCIAÇÃO KOBU-KAN DE ESPORTES-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Kauan Ryan De Souza",
+        "equipe": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+        "categoria": "SUB-15 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Kauan Victor Da Silva",
+        "equipe": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+        "categoria": "SUB-15 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Luís Otávio Garcia De Oliveira",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "SUB-15 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Pedro Henrique Bastos De Melo",
+        "equipe": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+        "categoria": "SUB-15 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Rubens Henrique Franco",
+        "equipe": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+        "categoria": "SUB-15 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Yan Guilherme Rocha Amaral",
+        "equipe": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+        "categoria": "SUB-15 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Carlos Eduardo Leite Lourenção",
+        "equipe": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Enzo Beltrame Santos",
+        "equipe": "ASSOC.JAUENSE DE T.M./PREFEITURA DE JAÚ-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Leonardo Pieroni Ramirez",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Matheus Macedo Brito",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Pedro Augusto Ribeiro De Oliveira Souza",
+        "equipe": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+        "categoria": "SUB-15 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Benicio Luca Silverio Tomilheiro",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-15 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Felipe David Andreotti",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-15 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Hugo  Mazzetto Gomes",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-15 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Joao Gabriel Oliveira Lopes",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Murilo Placa Do Prado",
+        "equipe": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Arthur Campos Duarte",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Gabriel Da Silva Florêncio Araújo",
+        "equipe": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+        "categoria": "SUB-15 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Giovanni Fernandes",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Miguel Galhardo Bertaglia",
+        "equipe": "BIRIGUI",
+        "categoria": "SUB-15 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Philippi Gabriel Neves Da Silva",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "SUB-15 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Vitor Ligeiro",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Wesley André Fernandes Dos Santos Pena",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Arthur De Melo Figueira",
+        "equipe": "BIRIGUI-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Francisco Possani Morales",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-15 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Gabriel Martins Delgado Longo",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Guilherme Lima Teruel",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-15 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Paulo Vinicius Da Silva Medeiros",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 0
+    },
+    {
+        "nome": "Pedro Yuma Tane",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-15 MAS",
+        "total": 0
+    },
+    {
+        "nome": "Gabriela Teixeira Spilari",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-19 FEM",
+        "total": 340
+    },
+    {
+        "nome": "Ana Clara Pires Gonzales",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-19 FEM",
+        "total": 305
+    },
+    {
+        "nome": "Larissa Silva Dos Santos",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-19 FEM",
+        "total": 285
+    },
+    {
+        "nome": "Amanda Yurie Nishioka Takatsuji",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-19 FEM",
+        "total": 160
+    },
+    {
+        "nome": "Beatriz De Sousa",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "SUB-19 FEM",
+        "total": 100
+    },
+    {
+        "nome": "Letícia Caroline Sant´Ana Ferreira",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-19 FEM",
+        "total": 100
+    },
+    {
+        "nome": "Ana Vitoria Conceição Lopes",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-19 FEM",
+        "total": 90
+    },
+    {
+        "nome": "Helena Guarnieri Ferreira",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-19 FEM",
+        "total": 60
+    },
+    {
+        "nome": "Thabata G M Albertin",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-19 FEM",
+        "total": 50
+    },
+    {
+        "nome": "Manuella Malta Bistaffa",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-19 FEM",
+        "total": 45
+    },
+    {
+        "nome": "Mariana Fuzinato Pina Modesto",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-19 FEM",
+        "total": 45
+    },
+    {
+        "nome": "Maria Eduarda Laborda Rodrigues",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-19 FEM",
+        "total": 45
+    },
+    {
+        "nome": "Isabele Rodrigues Ferreira",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "SUB-19 FEM",
+        "total": 25
+    },
+    {
+        "nome": "Isabelly Mochiuti Mandú",
+        "equipe": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+        "categoria": "SUB-19 FEM",
+        "total": 20
+    },
+    {
+        "nome": "Karoline Vasconcelos Basso",
+        "equipe": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+        "categoria": "SUB-19 FEM",
+        "total": 20
+    },
+    {
+        "nome": "Késia Vitória Da Silva Santana",
+        "equipe": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+        "categoria": "SUB-19 FEM",
+        "total": 20
+    },
+    {
+        "nome": "Samela Fernanda De Camargo",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-19 FEM",
+        "total": 10
+    },
+    {
+        "nome": "Izabella Lacava De Brito",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-19 FEM",
+        "total": 10
+    },
+    {
+        "nome": "José Henrique Mariano",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 520
+    },
+    {
+        "nome": "Kauê Augusto Ferreira Araújo",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 215
+    },
+    {
+        "nome": "Victor Pinhatar",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 160
+    },
+    {
+        "nome": "Roberto Alves Taveira Neto",
+        "equipe": "BIRIGUI",
+        "categoria": "SUB-19 MAS",
+        "total": 145
+    },
+    {
+        "nome": "Kauã Gabriel Partezani",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 125
+    },
+    {
+        "nome": "Kevyn Oliveira Polli",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 85
+    },
+    {
+        "nome": "Rauhã Segantine Da Graça",
+        "equipe": "ASSOCIAÇÃO KOBU-KAN DE ESPORTES-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 70
+    },
+    {
+        "nome": "Carlos Eduardo Gonçalves Suplano",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 70
+    },
+    {
+        "nome": "João Vitor Mendes Guilherme",
+        "equipe": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 55
+    },
+    {
+        "nome": "Caio P Bim",
+        "equipe": "BIRIGUI",
+        "categoria": "SUB-19 MAS",
+        "total": 55
+    },
+    {
+        "nome": "Nicolas Moura Lasnou",
+        "equipe": "MIRASSOL TENIS DE MESA",
+        "categoria": "SUB-19 MAS",
+        "total": 50
+    },
+    {
+        "nome": "Wesley Teh Kao",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-19 MAS",
+        "total": 45
+    },
+    {
+        "nome": "Bento De Morais Navarro",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Bruno Rocha De Souza",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Caio Guilherme Dias Marena",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Heitor Tolentino Da Silva",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 40
+    },
+    {
+        "nome": "João De Morais Navarro",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Lucas Garcia Rôa",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Lucas Henrique Nascimento Nazo",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Matheus Henzo Okada Esaki",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Paulo Andre  Potazio De Almeida",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Filipe Rossi Costa",
+        "equipe": "ASSOC.JAUENSE DE T.M./PREFEITURA DE JAÚ-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 35
+    },
+    {
+        "nome": "Gustavo Da Silva Martinez",
+        "equipe": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+        "categoria": "SUB-19 MAS",
+        "total": 35
+    },
+    {
+        "nome": "Enzo Gimenez Seefelder",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-19 MAS",
+        "total": 35
+    },
+    {
+        "nome": "Thiago Luis Pereira",
+        "equipe": "ASSOCIAÇÃO KOBU-KAN DE ESPORTES-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 35
+    },
+    {
+        "nome": "Lucas Takaki Mendes De Carvalho",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-19 MAS",
+        "total": 35
+    },
+    {
+        "nome": "Gabriel Batista Spiller",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Lucas Batista Spiller",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Isaac Mantovani De Farias",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Haroldo Evangelista De Souza",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Samuel Isaque Bittencourt Da Silva",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Eliel Jonas Pereira Júnior",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "SUB-19 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Guilherme Andrelino Evans",
+        "equipe": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+        "categoria": "SUB-19 MAS",
+        "total": 20
+    },
+    {
+        "nome": "João Victor Da Silva Ramos",
+        "equipe": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+        "categoria": "SUB-19 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Erick Kazuo Hinoue Morais",
+        "equipe": "DRACENA TM-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Rafael Eiji Hissamura",
+        "equipe": "BIRIGUI",
+        "categoria": "SUB-19 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Vinicius De Oliveira Silva",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Mateus Guerrero Alpresi Freire",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Miguel Antônio Lahos",
+        "equipe": "BIRIGUI",
+        "categoria": "SUB-19 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Andrey Kauê Nunes Bezerra",
+        "equipe": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+        "categoria": "SUB-19 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Gustavo Dos Santos Azevedo",
+        "equipe": "BIRIGUI",
+        "categoria": "SUB-19 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Samuel De Souza Barbosa",
+        "equipe": "ASSOCIAÇÃO KOBU-KAN DE ESPORTES-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Tito Galvão Barbosa",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-19 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Rayan Souza Tolardo",
+        "equipe": "DRACENA TM-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Abner Duarte Lima",
+        "equipe": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 10
+    },
+    {
+        "nome": "João Ricardo Dos Reis Ferracini",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Luiz Gustavo Lazarin Dos Santos",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 10
+    },
+    {
+        "nome": "João Eduardo Ribeiro De Souza",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-19 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Luis Felipe Marques Hernandes Lemes",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-19 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Luiz Fabiano Lima De Oliveira",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Marcos Paulo Brambila",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Kauã Henrique Satyro Dos Santos",
+        "equipe": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+        "categoria": "SUB-19 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Mateus Gabriel Arriero Xavier",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-19 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Gustavo Pereira Soler",
+        "equipe": "BIRIGUI-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Otávio Luis Pereira De Lima Silva",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-19 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Willian Alex Pereira Alves",
+        "equipe": "TÊNIS DE MESA DE VOTUPORANGA-LIGA",
+        "categoria": "SUB-19 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Ytalo Birochi Ataniel Silva",
+        "equipe": "BIRIGUI-SP",
+        "categoria": "SUB-19 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Daniel Henrique Gonçalves",
+        "equipe": "TÊNIS DE MESA DE VOTUPORANGA-LIGA",
+        "categoria": "SUB-19 MAS",
+        "total": 0
+    },
+    {
+        "nome": "Maria Eloisa Menezes Pereira Balbino",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-21 FEM",
+        "total": 520
+    },
+    {
+        "nome": "Sabrina Pinheiro Miranda",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-21 FEM",
+        "total": 320
+    },
+    {
+        "nome": "Ana Clara Carvalho Mendonça",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-21 FEM",
+        "total": 140
+    },
+    {
+        "nome": "Byatriz Martins Pereira",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-21 FEM",
+        "total": 135
+    },
+    {
+        "nome": "Juliana Pinheiro Rocha",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-21 FEM",
+        "total": 90
+    },
+    {
+        "nome": "Helena Mendes Santos",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "SUB-21 FEM",
+        "total": 60
+    },
+    {
+        "nome": "Estela Yukari Nisiyama",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "SUB-21 FEM",
+        "total": 50
+    },
+    {
+        "nome": "Thabata G M Albertin",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-21 FEM",
+        "total": 50
+    },
+    {
+        "nome": "Jaqueline De Lima Varela",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SUB-21 FEM",
+        "total": 45
+    },
+    {
+        "nome": "Samela Fernanda De Camargo",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-21 FEM",
+        "total": 25
+    },
+    {
+        "nome": "Fabiana Campos Castro De Carvalho",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-21 FEM",
+        "total": 25
+    },
+    {
+        "nome": "Nathalia Mike Moura Nakai",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "SUB-21 FEM",
+        "total": 25
+    },
+    {
+        "nome": "Tiago Fuzinato Pina Modesto",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-21 MAS",
+        "total": 420
+    },
+    {
+        "nome": "Mateus Athaide Dos Santos Dos Reis",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-21 MAS",
+        "total": 420
+    },
+    {
+        "nome": "Kaua Kevin Alves Cruz",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SUB-21 MAS",
+        "total": 145
+    },
+    {
+        "nome": "Carlos Eduardo Bonato",
+        "equipe": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+        "categoria": "SUB-21 MAS",
+        "total": 140
+    },
+    {
+        "nome": "Kauan Shoji",
+        "equipe": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+        "categoria": "SUB-21 MAS",
+        "total": 85
+    },
+    {
+        "nome": "Matheus  De Morais Batista",
+        "equipe": "BIRIGUI",
+        "categoria": "SUB-21 MAS",
+        "total": 75
+    },
+    {
+        "nome": "Pedro Henrique Salvador",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-21 MAS",
+        "total": 70
+    },
+    {
+        "nome": "Rafael Eiji Hissamura",
+        "equipe": "BIRIGUI",
+        "categoria": "SUB-21 MAS",
+        "total": 70
+    },
+    {
+        "nome": "Guilherme Alves Da Silveira",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "SUB-21 MAS",
+        "total": 65
+    },
+    {
+        "nome": "William Sanches Souza",
+        "equipe": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+        "categoria": "SUB-21 MAS",
+        "total": 55
+    },
+    {
+        "nome": "Endric Menon Ribeiro",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-21 MAS",
+        "total": 45
+    },
+    {
+        "nome": "Pedro Henrique Dos Reis Da Silva",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "SUB-21 MAS",
+        "total": 45
+    },
+    {
+        "nome": "Vinicius Araujo Ventura",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-21 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Eduardo André De Oliveira",
+        "equipe": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+        "categoria": "SUB-21 MAS",
+        "total": 35
+    },
+    {
+        "nome": "Marcos Paulo Brambila",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-21 MAS",
+        "total": 35
+    },
+    {
+        "nome": "Felipe Teixeira Marreira",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "SUB-21 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Jean Pablo Nazo",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SUB-21 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Vinícius Marcolar Tavares",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-21 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Artur Bortoloci Zarelli",
+        "equipe": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+        "categoria": "SUB-21 MAS",
+        "total": 25
+    },
+    {
+        "nome": "João Pedro Godoy",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SUB-21 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Arthur Henrique Silva Dos Santos",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-21 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Jefferson Gomes Carvalho",
+        "equipe": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+        "categoria": "SUB-21 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Lucas Ferrari Jaime",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SUB-21 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Benjamin Martinez Tsen",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "SUB-21 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Renan Guilherme Silva Fontes",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SUB-21 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Júlio Uehara Nogueira De Barros Leite",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "SUB-21 MAS",
+        "total": 0
+    },
+    {
+        "nome": "Henrique Eduardo Ferreira De Souza",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 335
+    },
+    {
+        "nome": "Caio César Gardenal",
+        "equipe": "BIRIGUI",
+        "categoria": "SÊNIOR 30",
+        "total": 245
+    },
+    {
+        "nome": "Eduardo Henrique Ferri Salinas",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 220
+    },
+    {
+        "nome": "Claudio Massad",
+        "equipe": "SESI-SP/INSTITUTO MATOSTT",
+        "categoria": "SÊNIOR 30",
+        "total": 130
+    },
+    {
+        "nome": "Mário Henrique De Almeida Zocante",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 115
+    },
+    {
+        "nome": "Júlio César Pereira",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SÊNIOR 30",
+        "total": 100
+    },
+    {
+        "nome": "Felipe Fernandes Silveira",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 95
+    },
+    {
+        "nome": "Wagner Júnior Dos Santos Da Fonseca",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 90
+    },
+    {
+        "nome": "Marcus Vinicius Maia Da Cruz",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 70
+    },
+    {
+        "nome": "Douglas Cassiano De Pais",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 70
+    },
+    {
+        "nome": "Tiago Silva Kakeya",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 50
+    },
+    {
+        "nome": "Adriano Eira Dos Santos Sacras",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 45
+    },
+    {
+        "nome": "Luís Gustavo De Oliveira Vilela",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SÊNIOR 30",
+        "total": 45
+    },
+    {
+        "nome": "Marcelo De Sotti Sabbo Sanches",
+        "equipe": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 45
+    },
+    {
+        "nome": "Erik Hideki Higuchi",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "SÊNIOR 30",
+        "total": 40
+    },
+    {
+        "nome": "Rafael Eidi Tsukahara",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 40
+    },
+    {
+        "nome": "Vinicius Gomes De Aguiar",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 40
+    },
+    {
+        "nome": "Matheus Forte Amarante",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 35
+    },
+    {
+        "nome": "João Paulo Guazelli Souto De Oliveira",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SÊNIOR 30",
+        "total": 30
+    },
+    {
+        "nome": "Lucas Alves Gonçalves",
+        "equipe": "TM ÁLVARES MACHADO-LIGA-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 30
+    },
+    {
+        "nome": "João Vitor De Oliveira Cara",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "SÊNIOR 30",
+        "total": 30
+    },
+    {
+        "nome": "Thiago Fonseca Tahara",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SÊNIOR 30",
+        "total": 30
+    },
+    {
+        "nome": "Wagner Willian Pescara",
+        "equipe": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 30
+    },
+    {
+        "nome": "Guilherme Pedon Makauskas",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 30
+    },
+    {
+        "nome": "Ednei Carlos Da Silva",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SÊNIOR 30",
+        "total": 30
+    },
+    {
+        "nome": "Anderson Filipe Chaves",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 20
+    },
+    {
+        "nome": "Diego Pereira De Souza",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 20
+    },
+    {
+        "nome": "Sandro Hilla",
+        "equipe": "TECHPONG ACADEMY/TIBHAR/COC SANTA CATARINA - SC",
+        "categoria": "SÊNIOR 30",
+        "total": 20
+    },
+    {
+        "nome": "Ruan Faustino Souza",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SÊNIOR 30",
+        "total": 20
+    },
+    {
+        "nome": "Gabriel Dos Santos Godoy Ura",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 20
+    },
+    {
+        "nome": "Alessandro Luiz De Freitas",
+        "equipe": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 20
+    },
+    {
+        "nome": "Caio Andre Marques",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SÊNIOR 30",
+        "total": 10
+    },
+    {
+        "nome": "Rafael Bernardo Messias",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 10
+    },
+    {
+        "nome": "Fabio Luca Tomilheiro Junior",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SÊNIOR 30",
+        "total": 10
+    },
+    {
+        "nome": "Kaique De Andrade Tomazinho",
+        "equipe": "ACADEMIA FITPONG DE TÊNIS DE MESA-PR",
+        "categoria": "SÊNIOR 30",
+        "total": 10
+    },
+    {
+        "nome": "Pedro Henrique Benites Aoki",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SÊNIOR 30",
+        "total": 10
+    },
+    {
+        "nome": "Vitor Hugo Garcia De Souza",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SÊNIOR 30",
+        "total": 10
+    },
+    {
+        "nome": "Gabriel Lin Wang",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 10
+    },
+    {
+        "nome": "Jonathan Braga",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "SÊNIOR 30",
+        "total": 10
+    },
+    {
+        "nome": "Fabrício Martinho Dos Santos",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SÊNIOR 30",
+        "total": 10
+    },
+    {
+        "nome": "Gabriel Silva Tinem",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SÊNIOR 30",
+        "total": 10
+    },
+    {
+        "nome": "Guilherme Henrique Tomazini",
+        "equipe": "BIRIGUI-SP",
+        "categoria": "SÊNIOR 30",
+        "total": 10
+    },
+    {
+        "nome": "João Victor De Oliveira Flores",
+        "equipe": "TÊNIS DE MESA DE VOTUPORANGA-LIGA",
+        "categoria": "SÊNIOR 30",
+        "total": 10
+    },
+    {
+        "nome": "Renan Terassaka Dias",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "SÊNIOR 30",
+        "total": 10
+    },
+    {
+        "nome": "Sheila Souza",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 40 FEM",
+        "total": 520
+    },
+    {
+        "nome": "Ana Paula Fumie Sakihama",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 40 FEM",
+        "total": 285
+    },
+    {
+        "nome": "Rejane De Oliveira Pinto",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "VETERANO 40 FEM",
+        "total": 180
+    },
+    {
+        "nome": "Mariana Rodrigues Gehre Chagas",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "VETERANO 40 FEM",
+        "total": 160
+    },
+    {
+        "nome": "Larissa Tassi Lobato",
+        "equipe": "MASTER PONG TT ACADEMIA-SP",
+        "categoria": "VETERANO 40 FEM",
+        "total": 80
+    },
+    {
+        "nome": "Jany Lucia Mantovan Yassuda",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "VETERANO 40 FEM",
+        "total": 75
+    },
+    {
+        "nome": "Priscila Galbiatti Vespa Imamura",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "VETERANO 40 FEM",
+        "total": 50
+    },
+    {
+        "nome": "Graziela Ananias Soares Pistori",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "VETERANO 40 FEM",
+        "total": 50
+    },
+    {
+        "nome": "Alexandre Bitencourt De Almeida",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 365
+    },
+    {
+        "nome": "Márcio José Barbosa   Lima",
+        "equipe": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 300
+    },
+    {
+        "nome": "Fabio P Navarro",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 265
+    },
+    {
+        "nome": "Leandro De Andrade Tajero",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 250
+    },
+    {
+        "nome": "Paulo A. Pistori",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 100
+    },
+    {
+        "nome": "Thiago Silva Cerqueira",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 85
+    },
+    {
+        "nome": "Nilson Noboru Tohyama",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 75
+    },
+    {
+        "nome": "Giuliano Hideo Thomazini Fukasawa",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 55
+    },
+    {
+        "nome": "Carlos De Oliveira",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 45
+    },
+    {
+        "nome": "Marcio Makoto Missaka",
+        "equipe": "ARTM/ACER - ROLÂNDIA - PR",
+        "categoria": "VETERANO 40 MAS",
+        "total": 45
+    },
+    {
+        "nome": "Denisson Gerez Silva",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 45
+    },
+    {
+        "nome": "Ademir José De  Deus",
+        "equipe": "BIRIGUI",
+        "categoria": "VETERANO 40 MAS",
+        "total": 45
+    },
+    {
+        "nome": "Carlos Alberto Maiello Junior",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Eduardo Oliveira Marques",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Gustavo Nishimura Aragaki",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Kengi Ricardo Yassuda",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Leonardo  L Pasquim",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Adriano Nogueira De Moraes",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Carlos Tadeu Guioti",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Luiz Henrique Garrido De Melo",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Rafael Molero Galdino",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Renato Silva Homse",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Marcos Vinicius Braga Paião",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Rafael Bernardo Messias",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Thiago Cristiano Gense",
+        "equipe": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 25
+    },
+    {
+        "nome": "Rogério Alves Fileto",
+        "equipe": "TÊNIS DE MESA DE VOTUPORANGA-LIGA",
+        "categoria": "VETERANO 40 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Fernando Luis Barbosa",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Danilo Aparecido Da Silva",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Gilmar Polônio Filho",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Alan Francisco",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Ivo Santos",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Tiago Evandro Spacca",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Felipe Camelo Biagi",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Humberto Basso",
+        "equipe": "ASSOCIAÇÃO RCTM - SP",
+        "categoria": "VETERANO 40 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Marcio Roberto D Elia",
+        "equipe": "MIRASSOL TENIS DE MESA",
+        "categoria": "VETERANO 40 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Daniela O Lopes",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 50 FEM",
+        "total": 520
+    },
+    {
+        "nome": "Laura Silvia De Almeida Misael",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 50 FEM",
+        "total": 285
+    },
+    {
+        "nome": "Miki Kaneko Hayashi",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "VETERANO 50 FEM",
+        "total": 135
+    },
+    {
+        "nome": "Claudia Sayuri Uenaka",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "VETERANO 50 FEM",
+        "total": 135
+    },
+    {
+        "nome": "Lucia Helena Moreli",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 50 FEM",
+        "total": 95
+    },
+    {
+        "nome": "Monica Cristina Camargo Neves",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "VETERANO 50 FEM",
+        "total": 80
+    },
+    {
+        "nome": "Marilice Barcarollo",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 50 FEM",
+        "total": 75
+    },
+    {
+        "nome": "Paula Sayuri Kamimoto",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "VETERANO 50 FEM",
+        "total": 50
+    },
+    {
+        "nome": "Ana Paula Palma Tomilheiro",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 50 FEM",
+        "total": 25
+    },
+    {
+        "nome": "Sônia Regina Basso Copi",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "VETERANO 50 FEM",
+        "total": 0
+    },
+    {
+        "nome": "Alexandre Lazarim Caldeira",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 470
+    },
+    {
+        "nome": "Rudemir Afonso Piassi",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 185
+    },
+    {
+        "nome": "Fábio Tadayoshi Sazaki",
+        "equipe": "ARTM/ACER - ROLÂNDIA - PR",
+        "categoria": "VETERANO 50 MAS",
+        "total": 160
+    },
+    {
+        "nome": "Fábio Mizutani",
+        "equipe": "MASTER PONG TT ACADEMIA-SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 130
+    },
+    {
+        "nome": "Rodrigo Sé Patrício De Barros",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 125
+    },
+    {
+        "nome": "Jorge Luis De Campos",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 120
+    },
+    {
+        "nome": "Adilson Ossamu Kubo",
+        "equipe": "ARTM/ACER - ROLÂNDIA - PR",
+        "categoria": "VETERANO 50 MAS",
+        "total": 105
+    },
+    {
+        "nome": "Acácio Benedicto Chaves",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 85
+    },
+    {
+        "nome": "Wilson Roberto De Oliveira",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 85
+    },
+    {
+        "nome": "Nelson Luís Machado",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 80
+    },
+    {
+        "nome": "Adalberto Corrêa Borges",
+        "equipe": "ATEMEL/ACEL LONDRINA - PR",
+        "categoria": "VETERANO 50 MAS",
+        "total": 70
+    },
+    {
+        "nome": "Guilherme Mendes De Carvalho",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 55
+    },
+    {
+        "nome": "Almir Rogério Bortoleto",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Emerson Luís De Souza",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Luis Henrique Yoshimi Kubota",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Romeu Santos Martins",
+        "equipe": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Sergio Tochiaki Sakai",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Walmir Pereira Salmazzo",
+        "equipe": "TM ÁLVARES MACHADO-LIGA-SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Ilson Cardoso De Araújo",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Fábio César Gomes",
+        "equipe": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Alexandre Hideki Minamoto",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Leandro Marques",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Carlos Alberto Franzini Meirelles",
+        "equipe": "DRACENA TM-SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 30
+    },
+    {
+        "nome": "José De Andrade Carvalho Neto",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Fábio Hissayoshi Oku",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Luciano De Lima",
+        "equipe": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Carlos Eduardo De Aqunio",
+        "equipe": "PRESIDENTE VENCESLAU-SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 20
+    },
+    {
+        "nome": "João Candido De Oliveira Porto",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Auro Mitsuyoshi Sakuraba",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Marcelo Augusto Mestrinari",
+        "equipe": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Élcio Inácio Júnior",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Renato Dias",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "VETERANO 50 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Celia  Mayumi Ideriha",
+        "equipe": "BIRIGUI",
+        "categoria": "VETERANO 60 FEM",
+        "total": 385
+    },
+    {
+        "nome": "Toyomi Adachi",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "VETERANO 60 FEM",
+        "total": 255
+    },
+    {
+        "nome": "Teresa Kimi Kumazawa Kato",
+        "equipe": "BIRIGUI",
+        "categoria": "VETERANO 60 FEM",
+        "total": 180
+    },
+    {
+        "nome": "Mitiko Higashi Hatta Yamasaki",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "VETERANO 60 FEM",
+        "total": 155
+    },
+    {
+        "nome": "Ieda Maria Munhos Benedetti",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "VETERANO 60 FEM",
+        "total": 130
+    },
+    {
+        "nome": "Marly Akemi Sakaida",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "VETERANO 60 FEM",
+        "total": 115
+    },
+    {
+        "nome": "Monica Cristina Camargo Neves",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "VETERANO 60 FEM",
+        "total": 80
+    },
+    {
+        "nome": "Maria Vanirde Volpi Da Silva",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "VETERANO 60 FEM",
+        "total": 25
+    },
+    {
+        "nome": "Aparecida Donizete Belini",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "VETERANO 60 FEM",
+        "total": 25
+    },
+    {
+        "nome": "Helena Tomie Isechi Serikawa",
+        "equipe": "CLUBE ITUANO DE ESPORTES-SP",
+        "categoria": "VETERANO 60 FEM",
+        "total": 25
+    },
+    {
+        "nome": "Olides  Millezi Júnior",
+        "equipe": "ATEMEL/ACEL LONDRINA - PR",
+        "categoria": "VETERANO 60 MAS",
+        "total": 520
+    },
+    {
+        "nome": "Luiz  Roberto  Naves",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 60 MAS",
+        "total": 250
+    },
+    {
+        "nome": "Carlos Eduardo Paula Perez",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 60 MAS",
+        "total": 155
+    },
+    {
+        "nome": "Renato Bicalho Dias",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "VETERANO 60 MAS",
+        "total": 90
+    },
+    {
+        "nome": "Shindo Sumiyori",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 60 MAS",
+        "total": 90
+    },
+    {
+        "nome": "Hugo Dummer",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "VETERANO 60 MAS",
+        "total": 90
+    },
+    {
+        "nome": "Wolney Marcos Oliveira Chagas",
+        "equipe": "BIRIGUI",
+        "categoria": "VETERANO 60 MAS",
+        "total": 85
+    },
+    {
+        "nome": "Walter Aparecido Canella",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "VETERANO 60 MAS",
+        "total": 75
+    },
+    {
+        "nome": "Luiz Carlos De Souza",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "VETERANO 60 MAS",
+        "total": 70
+    },
+    {
+        "nome": "José Lok Tchong",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "VETERANO 60 MAS",
+        "total": 70
+    },
+    {
+        "nome": "Nilton Pompeu",
+        "equipe": "DRACENA TM-SP",
+        "categoria": "VETERANO 60 MAS",
+        "total": 65
+    },
+    {
+        "nome": "Celso Massaru Gakiya",
+        "equipe": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+        "categoria": "VETERANO 60 MAS",
+        "total": 60
+    },
+    {
+        "nome": "Frank Onish",
+        "equipe": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+        "categoria": "VETERANO 60 MAS",
+        "total": 45
+    },
+    {
+        "nome": "Valter Guarido Marques",
+        "equipe": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+        "categoria": "VETERANO 60 MAS",
+        "total": 40
+    },
+    {
+        "nome": "Wilfredo Dario Yangali Villegas",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "VETERANO 60 MAS",
+        "total": 30
+    },
+    {
+        "nome": "Cristiano Amaral Di Giorgi",
+        "equipe": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+        "categoria": "VETERANO 60 MAS",
+        "total": 25
+    },
+    {
+        "nome": "Ademir Ferreira De Souza",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "VETERANO 60 MAS",
+        "total": 20
+    },
+    {
+        "nome": "Silvio Roberto Tassinari",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "VETERANO 60 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Antonio Roberto Ruffino",
+        "equipe": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+        "categoria": "VETERANO 60 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Edison Baptista Barretto Neto",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "VETERANO 60 MAS",
+        "total": 10
+    },
+    {
+        "nome": "Shigueo Higashi Hatta",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "VETERANO 60 MAS",
+        "total": 10
+    },
+    {
+        "nome": "José Venâncio Roquejani",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "VETERANO 60 MAS",
+        "total": 0
+    },
+    {
+        "nome": "Helia Y  Yoshihara",
+        "equipe": "TM ÁLVARES MACHADO-LIGA-SP",
+        "categoria": "VETERANO 70 FEM",
+        "total": 520
+    },
+    {
+        "nome": "Helena Yoshiko Matsueda",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "VETERANO 70 FEM",
+        "total": 240
+    },
+    {
+        "nome": "Leonice De Bastiani",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "VETERANO 70 FEM",
+        "total": 195
+    },
+    {
+        "nome": "Maria L T  Makino",
+        "equipe": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+        "categoria": "VETERANO 70 FEM",
+        "total": 160
+    },
+    {
+        "nome": "Miyoko Uno Kakitani",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "VETERANO 70 FEM",
+        "total": 140
+    },
+    {
+        "nome": "Maria Helena Bottan Berengue",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "VETERANO 70 FEM",
+        "total": 100
+    },
+    {
+        "nome": "Maria Elena Da Silva",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "VETERANO 70 FEM",
+        "total": 95
+    },
+    {
+        "nome": "Neide Morales Da Silva",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "VETERANO 70 FEM",
+        "total": 50
+    },
+    {
+        "nome": "Vera Lucia Belini Pasqualini",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "VETERANO 70 FEM",
+        "total": 25
+    },
+    {
+        "nome": "Loide Gouveia Cruz",
+        "equipe": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+        "categoria": "VETERANO 70 FEM",
+        "total": 25
+    },
+    {
+        "nome": "Maria Do Carmo Piton De Oliveira",
+        "equipe": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+        "categoria": "VETERANO 70 FEM",
+        "total": 25
+    },
+    {
+        "nome": "Mercedes Sanfelice Risso",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 70 FEM",
+        "total": 10
+    },
+    {
+        "nome": "Nilton Toshio Takaoka",
+        "equipe": "ATEMEL/ACEL LONDRINA - PR",
+        "categoria": "VETERANO 70 MAS",
+        "total": 340
+    },
+    {
+        "nome": "Teruo  Tarumoto",
+        "equipe": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+        "categoria": "VETERANO 70 MAS",
+        "total": 250
+    },
+    {
+        "nome": "Francesco D J Passa",
+        "equipe": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+        "categoria": "VETERANO 70 MAS",
+        "total": 200
+    },
+    {
+        "nome": "José Narciso Da Conceição Gesteiro",
+        "equipe": "DRACENA TM-SP",
+        "categoria": "VETERANO 70 MAS",
+        "total": 180
+    },
+    {
+        "nome": "Jorge Atsuki Tsukada",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "VETERANO 70 MAS",
+        "total": 160
+    },
+    {
+        "nome": "Rubens Francisco De Campos Junior",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "VETERANO 70 MAS",
+        "total": 140
+    },
+    {
+        "nome": "Mario Minoru Tohyama",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 70 MAS",
+        "total": 70
+    },
+    {
+        "nome": "Eugênio Valentim Balan",
+        "equipe": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+        "categoria": "VETERANO 70 MAS",
+        "total": 45
+    },
+    {
+        "nome": "Ivo De Almeida Mariano",
+        "equipe": "ACERT TUPÃ - LIGA - SP",
+        "categoria": "VETERANO 70 MAS",
+        "total": 35
+    },
+    {
+        "nome": "Mario Ferreira Da Silva",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "VETERANO 70 MAS",
+        "total": 35
+    },
+    {
+        "nome": "Mario Miguel Risso",
+        "equipe": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+        "categoria": "VETERANO 70 MAS",
+        "total": 25
+    },
+    {
+        "nome": "Fernando Milanese",
+        "equipe": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+        "categoria": "VETERANO 70 MAS",
+        "total": 25
+    },
+    {
+        "nome": "Paulo Shigueru Yamakami",
+        "equipe": "DRACENA TM-SP",
+        "categoria": "VETERANO 70 MAS",
+        "total": 25
+    },
+    {
+        "nome": "Jobayr Antônio Amaral",
+        "equipe": "ASSOC. NOVA ERA DE T.M.-SP",
+        "categoria": "VETERANO 70 MAS",
+        "total": 25
+    }
+]
