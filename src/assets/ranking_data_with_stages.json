@@ -1,0 +1,7304 @@
+[
+  {
+    "name": "Gisela Maria Santos Bronze",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 340,
+    "stages": {
+      "Assis": 80,
+      "Ourinhos": 130,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Jessica Silva Prates",
+    "team": "ASSOCIAÇÃO NIKKEY SÃO JOSÉ DOS CAMPOS - SP",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 260,
+    "stages": {
+      "Marília": 130,
+      "Assis": 130
+    }
+  },
+  {
+    "name": "Giovana Marinatto Da Silva",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 125,
+    "stages": {
+      "Marília": 80,
+      "Assis": 45
+    }
+  },
+  {
+    "name": "Betina Gabriella Motta Bueno",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 125,
+    "stages": {
+      "Ourinhos": 80,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Priscila Fernanda Alves",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 90,
+    "stages": {
+      "Assis": 45,
+      "Ourinhos": 45
+    }
+  },
+  {
+    "name": "Sigrid Ane Santana",
+    "team": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 90,
+    "stages": {
+      "Marília": 10,
+      "Assis": 25,
+      "Ourinhos": 45,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Fernanda Maki Tanaka",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 80,
+    "stages": {
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Lorena Ingegneri Monteiro De Castro",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 75,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Marina Arita Falha",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 75,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Gabrielle Lu Fan",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 60,
+    "stages": {
+      "Marília": 10,
+      "Assis": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Ana Claudia Cressoni De Conti",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 45,
+    "stages": {
+      "Marília": 45
+    }
+  },
+  {
+    "name": "Kathleen Caroline De Oliveira Campos",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 45,
+    "stages": {
+      "Marília": 45
+    }
+  },
+  {
+    "name": "Sarah Alves Gomes Da Silva",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 45,
+    "stages": {
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Thalita Tiemi Kubo Nabeshima",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 35,
+    "stages": {
+      "Marília": 10,
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Lara Pereira De Souza",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 25,
+    "stages": {
+      "Marília": 25
+    }
+  },
+  {
+    "name": "Luana Tiemi Taniguti",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 25,
+    "stages": {
+      "Marília": 25
+    }
+  },
+  {
+    "name": "Karolen Santana Rossi",
+    "team": "NEW PONG - SÃO JOSÉ DO RIO PRETO/SP - ACADEMIA DE TÊNIS DE MESA",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 25,
+    "stages": {
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Paula Tamara Ikeda Zaith",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Nathália Machado Ortolano",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Carolina Colla Ferro",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Melissa Kazumi Hyodo",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Luana De Lima",
+    "team": "NEW PONG - SÃO JOSÉ DO RIO PRETO/SP - ACADEMIA DE TÊNIS DE MESA",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Dyovanna Malta Bistaffa",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "ABSOLUTO A (FEM)",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "João Pedro Ribeiro Mira",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 470,
+    "stages": {
+      "Marília": 80,
+      "Assis": 130,
+      "Ourinhos": 130,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Breno Panini Souza",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 290,
+    "stages": {
+      "Marília": 130,
+      "Ourinhos": 80,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Bruno Henrique Pimentel",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 160,
+    "stages": {
+      "Marília": 25,
+      "Assis": 80,
+      "Ourinhos": 45,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Lucas Bispo Dos Santos",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 120,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Ourinhos": 45,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Felipe Antoniazzi De Oliveira",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 120,
+    "stages": {
+      "Marília": 25,
+      "Assis": 45,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Fábio Jorge Viccari",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 115,
+    "stages": {
+      "Marília": 45,
+      "Assis": 45,
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Khristopher Keiske Ogasawara",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 90,
+    "stages": {
+      "Marília": 45,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Matheus L Silva",
+    "team": "BIRIGUI",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 70,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Alexandre Jorge Ribeiro",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 70,
+    "stages": {
+      "Marília": 25,
+      "Assis": 10,
+      "Ourinhos": 25,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Luan Pagliari De Brito",
+    "team": "MIRASSOL TENIS DE MESA",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 45,
+    "stages": {
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Luiz Da Silva Ribeiro Junior",
+    "team": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 45,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Hélio Sadao Takasu",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 45,
+    "stages": {
+      "Marília": 10,
+      "Assis": 25,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Alan Tajero",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Cauan Silva E Sousa",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Étore Vinícius Lazarini",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Felipe Pereira Rosa",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "João Victor Tolardo Ferreira",
+    "team": "DRACENA TM-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Lucas  Guedes  Lanza",
+    "team": "TM ÁLVARES MACHADO-LIGA-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Matheus Bazichetto Martins Dos Passos",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Murilo Feliciano Oliveira",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Rodrigo Milane Silva",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "César Cremonezi",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "João Pedro Nunes Machado",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Leonardo Pereira Tamelini",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "João Vitor Anhê Peres",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 30,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Felipe Bondi Gravatim",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 30,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Antonio Vinicius Tsuyoshi Araki",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Guilherme Cesar Ferreira Furtado",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 25,
+    "stages": {
+      "Assis": 25
+    }
+  },
+  {
+    "name": "Lucas Nelington De Oliveira Paula",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 25,
+    "stages": {
+      "Assis": 25
+    }
+  },
+  {
+    "name": "Anderson Figueiredo Santos",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Joao Vitor Ferreira De Souza",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "André En Lih Liang",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Caetano Moraes Cavedal",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Caio Xanddy Moltocaro Da Silva",
+    "team": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Guilherme Manfio",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Guilherme Matheus  De Paris",
+    "team": "ARTM/ACER - ROLÂNDIA - PR",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Rafael Andrade Franco",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Danilo De Moura Lima",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Jose Roberto Geris Da Costa",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Misael Da Silva",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Fernando Dos Santos  Silva",
+    "team": "BIRIGUI",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Andre Figueiredo Dos Santos",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Iury Raphael Reze Jodas",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Leonardo Santana Serdan",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Alison Beltramin",
+    "team": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Gabriel Contiero Battistam",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Tiago Montanha Basso",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Tiago Silva Kakeya",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Giovane Ferreira Da Silva",
+    "team": "MIRASSOL TENIS DE MESA",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Joao Pedro Yukio Ishida",
+    "team": "TM ÁLVARES MACHADO-LIGA-SP",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Nicolas Dos Santos Lourenço",
+    "team": "MIRASSOL TENIS DE MESA",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Gabriel Vinicius Lopes Dos Santos",
+    "team": "TÊNIS DE MESA DE VOTUPORANGA-LIGA",
+    "category": "ABSOLUTO A (MAS)",
+    "total_points": 0,
+    "stages": {}
+  },
+  {
+    "name": "Natalia Yuri Arakaki",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "LADY 30",
+    "total_points": 340,
+    "stages": {
+      "Marília": 80,
+      "Assis": 130,
+      "Ourinhos": 130
+    }
+  },
+  {
+    "name": "Angela Cristina De Oliveira Marques",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "LADY 30",
+    "total_points": 300,
+    "stages": {
+      "Marília": 45,
+      "Assis": 45,
+      "Ourinhos": 80,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Isabela Cristina Vizoni",
+    "team": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "category": "LADY 30",
+    "total_points": 290,
+    "stages": {
+      "Marília": 130,
+      "Assis": 80,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Sara Eliza Pinheiro",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "LADY 30",
+    "total_points": 140,
+    "stages": {
+      "Marília": 45,
+      "Assis": 25,
+      "Ourinhos": 45,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Érica Fusako Marumoto",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "LADY 30",
+    "total_points": 115,
+    "stages": {
+      "Assis": 25,
+      "Ourinhos": 45,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Lilian Dos Santos Cardoso",
+    "team": "BIRIGUI",
+    "category": "LADY 30",
+    "total_points": 75,
+    "stages": {
+      "Assis": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Marta Aparecida Machado",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "LADY 30",
+    "total_points": 75,
+    "stages": {
+      "Assis": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Bianca Chrystine Da Silva Watanabe",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "LADY 30",
+    "total_points": 45,
+    "stages": {
+      "Assis": 45
+    }
+  },
+  {
+    "name": "Priscila Galbiatti Vespa Imamura",
+    "team": "NEW PONG - SÃO JOSÉ DO RIO PRETO/SP - ACADEMIA DE TÊNIS DE MESA",
+    "category": "LADY 30",
+    "total_points": 45,
+    "stages": {
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Jany Lucia Mantovan Yassuda",
+    "team": "NEW PONG - SÃO JOSÉ DO RIO PRETO/SP - ACADEMIA DE TÊNIS DE MESA",
+    "category": "LADY 30",
+    "total_points": 25,
+    "stages": {
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "ÉTORE VINÍCIUS LAZARINI",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "RAT PARALIMPICO",
+    "total_points": 290,
+    "stages": {
+      "Marília": 130,
+      "Assis": 80,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "JEFFERSON FELIPE GONÇALVES LINO",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "RAT PARALIMPICO",
+    "total_points": 170,
+    "stages": {
+      "Marília": 80,
+      "Assis": 45,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "JOSE RAFAEL OLIVEIRA DONIZETTI LOPES",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "RAT PARALIMPICO",
+    "total_points": 130,
+    "stages": {
+      "Assis": 130
+    }
+  },
+  {
+    "name": "MATEUS GABRIEL ARRIERO XAVIER",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "RAT PARALIMPICO",
+    "total_points": 130,
+    "stages": {
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Luana de Lima",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "RAT PARALIMPICO",
+    "total_points": 90,
+    "stages": {
+      "Assis": 45,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Ana Clara Pires Gonzales",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "RATING FEM",
+    "total_points": 260,
+    "stages": {
+      "Marília": 130,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Larissa Tassi Lobato",
+    "team": "MASTER PONG TT ACADEMIA-SP",
+    "category": "RATING FEM",
+    "total_points": 130,
+    "stages": {
+      "Assis": 130
+    }
+  },
+  {
+    "name": "Isis Sanches Tohyama",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "RATING FEM",
+    "total_points": 105,
+    "stages": {
+      "Marília": 25,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Ana Claudia Cressoni De Conti",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "RATING FEM",
+    "total_points": 80,
+    "stages": {
+      "Marília": 80
+    }
+  },
+  {
+    "name": "Helena Tomie Isechi Serikawa",
+    "team": "CLUBE ITUANO DE ESPORTES-SP",
+    "category": "RATING FEM",
+    "total_points": 80,
+    "stages": {
+      "Assis": 80
+    }
+  },
+  {
+    "name": "Mariana Fuzinato Pina Modesto",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "RATING FEM",
+    "total_points": 45,
+    "stages": {
+      "Marília": 45
+    }
+  },
+  {
+    "name": "Nathalia Mike Moura Nakai",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "RATING FEM",
+    "total_points": 45,
+    "stages": {
+      "Marília": 45
+    }
+  },
+  {
+    "name": "GISELA MARIA SANTOS BRONZE",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "RATING FEM",
+    "total_points": 45,
+    "stages": {
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Ana Clara Carvalho Mendonça",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "RATING FEM",
+    "total_points": 25,
+    "stages": {
+      "Marília": 25
+    }
+  },
+  {
+    "name": "Toyomi Adachi",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "RATING FEM",
+    "total_points": 25,
+    "stages": {
+      "Marília": 25
+    }
+  },
+  {
+    "name": "Lara Pereira De Souza",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "RATING FEM",
+    "total_points": 25,
+    "stages": {
+      "Marília": 25
+    }
+  },
+  {
+    "name": "JOÃO PEDRO RIBEIRO MIRA",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "RATING MAS",
+    "total_points": 385,
+    "stages": {
+      "Marília": 45,
+      "Assis": 130,
+      "Ourinhos": 130,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "MÁRCIO JOSÉ BARBOSA   LIMA",
+    "team": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "category": "RATING MAS",
+    "total_points": 280,
+    "stages": {
+      "Marília": 25,
+      "Assis": 80,
+      "Ourinhos": 45,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "BRUNO HENRIQUE PIMENTEL",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "RATING MAS",
+    "total_points": 195,
+    "stages": {
+      "Marília": 25,
+      "Assis": 45,
+      "Ourinhos": 80,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "BRENO PANINI SOUZA",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "RATING MAS",
+    "total_points": 175,
+    "stages": {
+      "Marília": 130,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "KHRISTOPHER KEISKE OGASAWARA",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "RATING MAS",
+    "total_points": 105,
+    "stages": {
+      "Marília": 80,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "JOSÉ HENRIQUE MARIANO",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "RATING MAS",
+    "total_points": 95,
+    "stages": {
+      "Marília": 45,
+      "Assis": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "FÁBIO JORGE VICCARI",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "RATING MAS",
+    "total_points": 50,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25
+    }
+  },
+  {
+    "name": "Guilherme Cesar Ferreira Furtado",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "RATING MAS",
+    "total_points": 45,
+    "stages": {
+      "Assis": 45
+    }
+  },
+  {
+    "name": "WILLIAM EDUARDO RESENDE BUSSOM",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "RATING MAS",
+    "total_points": 45,
+    "stages": {
+      "Ourinhos": 45
+    }
+  },
+  {
+    "name": "CLAUDIO MASSAD",
+    "team": "SESI-SP/INSTITUTO MATOSTT",
+    "category": "RATING MAS",
+    "total_points": 25,
+    "stages": {
+      "Marília": 25
+    }
+  },
+  {
+    "name": "Fábio Mizutani",
+    "team": "MASTER PONG TT ACADEMIA-SP",
+    "category": "RATING MAS",
+    "total_points": 25,
+    "stages": {
+      "Assis": 25
+    }
+  },
+  {
+    "name": "Wilson Roberto De Oliveira",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "RATING MAS",
+    "total_points": 25,
+    "stages": {
+      "Assis": 25
+    }
+  },
+  {
+    "name": "ACÁCIO BENEDICTO CHAVES",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "RATING MAS",
+    "total_points": 25,
+    "stages": {
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "ANDRÉ EN LIH LIANG",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "RATING MAS",
+    "total_points": 25,
+    "stages": {
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "CAETANO MORAES CAVEDAL",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "RATING MAS",
+    "total_points": 25,
+    "stages": {
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "LUCAS M MARQUES",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "RATING MAS",
+    "total_points": 25,
+    "stages": {
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "EDNEI CARLOS DA SILVA",
+    "team": "BIRIGUI",
+    "category": "RATING MAS",
+    "total_points": 25,
+    "stages": {
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "LUIS G. VILELA",
+    "team": "ARAÇA PONG",
+    "category": "RATING MAS",
+    "total_points": 25,
+    "stages": {
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Gabriela Dell Aringa De Araujo",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-09 FEM",
+    "total_points": 520,
+    "stages": {
+      "Marília": 130,
+      "Assis": 130,
+      "Ourinhos": 130,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Lizzy Sanches Tohyama",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-09 FEM",
+    "total_points": 320,
+    "stages": {
+      "Marília": 80,
+      "Assis": 80,
+      "Ourinhos": 80,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Ana Clara Abrucezzi Coqueiro",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-09 FEM",
+    "total_points": 140,
+    "stages": {
+      "Marília": 45,
+      "Assis": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Manuella Tassi Bazo",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-09 FEM",
+    "total_points": 90,
+    "stages": {
+      "Marília": 45,
+      "Assis": 45
+    }
+  },
+  {
+    "name": "Elisa Fernandes De Souza",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-09 FEM",
+    "total_points": 70,
+    "stages": {
+      "Assis": 45,
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Beatriz Kaori Nagae Miyashiro",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-09 FEM",
+    "total_points": 45,
+    "stages": {
+      "Ourinhos": 45
+    }
+  },
+  {
+    "name": "Gabriela Gama Pavan",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-09 FEM",
+    "total_points": 45,
+    "stages": {
+      "Ourinhos": 45
+    }
+  },
+  {
+    "name": "Jhenifer Garcia Da Silva",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-09 FEM",
+    "total_points": 25,
+    "stages": {
+      "Assis": 25
+    }
+  },
+  {
+    "name": "João Pedro Martins Carvalho",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-09 MAS",
+    "total_points": 520,
+    "stages": {
+      "Marília": 130,
+      "Assis": 130,
+      "Ourinhos": 130,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Felipe Xavier Dos Santos",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-09 MAS",
+    "total_points": 170,
+    "stages": {
+      "Marília": 45,
+      "Assis": 80,
+      "Ourinhos": 45
+    }
+  },
+  {
+    "name": "Otávio Grandini Figueiredo Martins",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-09 MAS",
+    "total_points": 150,
+    "stages": {
+      "Assis": 45,
+      "Ourinhos": 25,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Isaac Eduardo Maria Barbosa",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-09 MAS",
+    "total_points": 125,
+    "stages": {
+      "Marília": 45,
+      "Assis": 25,
+      "Ourinhos": 10,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Ryan Daniel Prato Lopes",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-09 MAS",
+    "total_points": 85,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Ourinhos": 10,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Noah Quagliato Breve",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-09 MAS",
+    "total_points": 80,
+    "stages": {
+      "Ourinhos": 80
+    }
+  },
+  {
+    "name": "Davi Magnani Rodrigues Padula",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-09 MAS",
+    "total_points": 80,
+    "stages": {
+      "Marília": 80
+    }
+  },
+  {
+    "name": "Miguel Faria De Araujo",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-09 MAS",
+    "total_points": 70,
+    "stages": {
+      "Marília": 25,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Rafael Hilla",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "SUB-09 MAS",
+    "total_points": 50,
+    "stages": {
+      "Marília": 25,
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Antônio Quagliato Porto",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-09 MAS",
+    "total_points": 45,
+    "stages": {
+      "Ourinhos": 45
+    }
+  },
+  {
+    "name": "Bento Storniolo De Souza",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-09 MAS",
+    "total_points": 25,
+    "stages": {
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Antonio Luca Silverio",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-09 MAS",
+    "total_points": 25,
+    "stages": {
+      "Assis": 25
+    }
+  },
+  {
+    "name": "Felipe André Franciscani",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-09 MAS",
+    "total_points": 25,
+    "stages": {
+      "Assis": 25
+    }
+  },
+  {
+    "name": "Breno Henrique Borges De Paula",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-09 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Jorge Miguel Venâncio Gregório",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-09 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Joshua Carelli Bento",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-09 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Yago Augusto Lopes Barbosa",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-09 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Diego De Araujo Moura Gouveia",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "SUB-09 Mas",
+    "total_points": 115,
+    "stages": {
+      "Assis": 45,
+      "Ourinhos": 25,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Caroline Messias Loureiro",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-11 FEM",
+    "total_points": 420,
+    "stages": {
+      "Marília": 130,
+      "Assis": 130,
+      "Ourinhos": 80,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Julia Brabo Silva",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-11 FEM",
+    "total_points": 335,
+    "stages": {
+      "Marília": 80,
+      "Assis": 80,
+      "Ourinhos": 45,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Ana Clara De Oliveira Macêra",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-11 FEM",
+    "total_points": 180,
+    "stages": {
+      "Marília": 45,
+      "Assis": 45,
+      "Ourinhos": 45,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Luiza Beltrame Santos",
+    "team": "ASSOC.JAUENSE DE T.M./PREFEITURA DE JAÚ-SP",
+    "category": "SUB-11 FEM",
+    "total_points": 130,
+    "stages": {
+      "Ourinhos": 130
+    }
+  },
+  {
+    "name": "Laura De Oliveira Colombo",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-11 FEM",
+    "total_points": 120,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Ayla Miwa Miyagui Oku",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "SUB-11 FEM",
+    "total_points": 95,
+    "stages": {
+      "Marília": 25,
+      "Assis": 45,
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Maria Paula Soares Pistori",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-11 FEM",
+    "total_points": 75,
+    "stages": {
+      "Marília": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Melissa Shiro Taniguchi",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "SUB-11 FEM",
+    "total_points": 70,
+    "stages": {
+      "Marília": 45,
+      "Assis": 25
+    }
+  },
+  {
+    "name": "Kauani Souza Belloto",
+    "team": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+    "category": "SUB-11 FEM",
+    "total_points": 50,
+    "stages": {
+      "Assis": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Ana Laura E Almeida",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-11 FEM",
+    "total_points": 45,
+    "stages": {
+      "Marília": 25,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Maria Luiza Silvestrini",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-11 FEM",
+    "total_points": 25,
+    "stages": {
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Lais Sussel Dias",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-11 FEM",
+    "total_points": 25,
+    "stages": {
+      "Assis": 25
+    }
+  },
+  {
+    "name": "Antônio Lorenzo Norberto Santana De Souza",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 520,
+    "stages": {
+      "Marília": 130,
+      "Assis": 130,
+      "Ourinhos": 130,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Miguel Chagas De Almeida",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 170,
+    "stages": {
+      "Assis": 80,
+      "Ourinhos": 10,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Benjamin Hilla",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 160,
+    "stages": {
+      "Marília": 80,
+      "Ourinhos": 80
+    }
+  },
+  {
+    "name": "Igor Fernandes Orlando",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 160,
+    "stages": {
+      "Marília": 45,
+      "Assis": 25,
+      "Ourinhos": 45,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Heitor Kenzo Vespa Imamura",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 160,
+    "stages": {
+      "Marília": 45,
+      "Assis": 45,
+      "Ourinhos": 45,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Lucas Castelli Tahara",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-11 MAS",
+    "total_points": 105,
+    "stages": {
+      "Marília": 10,
+      "Assis": 45,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Tiago Yera Nakajum",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 90,
+    "stages": {
+      "Marília": 25,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Kaio Augusto Ferreira De Araújo",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 60,
+    "stages": {
+      "Marília": 25,
+      "Assis": 10,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Davi Teodoro De Lima",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 45,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Guilherme Barbosa Da Silva Santos",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 45,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Henrique Mesquita Serva Reis",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 45,
+    "stages": {
+      "Assis": 25,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Luan Leonardi",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Miguel Kengi Mantovan Yassuda",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Nicollas Gabriel Pego",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Pedro Henrique Araujo",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Arthur Masato Nobuyasu Vasconcelos",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 35,
+    "stages": {
+      "Assis": 25,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Oliver Manzini Almeida",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "SUB-11 MAS",
+    "total_points": 35,
+    "stages": {
+      "Marília": 10,
+      "Assis": 25
+    }
+  },
+  {
+    "name": "Henrique Clemente Paião",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-11 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Lorenzo Antônio Munefiça",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 25,
+    "stages": {
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Mathias Batista Batistela Gentil",
+    "team": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 25,
+    "stages": {
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Enrico Esteves Stevanato",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 25,
+    "stages": {
+      "Marília": 25
+    }
+  },
+  {
+    "name": "Vitor Lacava De Brito",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 25,
+    "stages": {
+      "Marília": 25
+    }
+  },
+  {
+    "name": "Benício Souza Amaral",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Guilherme Augusto De Oliveira Da Silva",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 20,
+    "stages": {
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Samuel Gonçalves Galego",
+    "team": "BIRIGUI",
+    "category": "SUB-11 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Bernardo Henrique Borges De Paula",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Filipi Moraes Costa",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Gabriel Montechiesi Maldonado",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Miguel Maldonado Da Guia Rosa",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Rafael Taiar Barbosa",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-11 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Augusto Fernoval Da Silva Justo",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-11 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Davi Miguel Ribeiro De Souza",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-11 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Francisco Melios Cruz",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-11 MAS",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Sophia Pinheiro Miranda",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-13 FEM",
+    "total_points": 420,
+    "stages": {
+      "Marília": 80,
+      "Assis": 80,
+      "Ourinhos": 130,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Agatha De Oliveira Rodrigues",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-13 FEM",
+    "total_points": 340,
+    "stages": {
+      "Marília": 130,
+      "Assis": 130,
+      "Ourinhos": 80
+    }
+  },
+  {
+    "name": "Eva Gabriella Griao Fukasawa",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "SUB-13 FEM",
+    "total_points": 180,
+    "stages": {
+      "Marília": 45,
+      "Assis": 45,
+      "Ourinhos": 45,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Ana Clara Silva Moraes",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-13 FEM",
+    "total_points": 160,
+    "stages": {
+      "Marília": 45,
+      "Assis": 45,
+      "Ourinhos": 45,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Rhebeka Paderes De Souza",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-13 FEM",
+    "total_points": 120,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Yukina Nicole De Santana Ogihara",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-13 FEM",
+    "total_points": 100,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Isadora Ramos D' Elia",
+    "team": "MIRASSOL TENIS DE MESA",
+    "category": "SUB-13 FEM",
+    "total_points": 80,
+    "stages": {
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Alice Akemi Babichi Tanaka",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-13 FEM",
+    "total_points": 75,
+    "stages": {
+      "Marília": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Lays Dubowiski Mioto",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-13 FEM",
+    "total_points": 25,
+    "stages": {
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Clara Martinho De Lazari Motta",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "SUB-13 FEM",
+    "total_points": 25,
+    "stages": {
+      "Marília": 25
+    }
+  },
+  {
+    "name": "Helena Lopes Assem",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-13 FEM",
+    "total_points": 25,
+    "stages": {
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Maria Luiza Pasqualini Ramos",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-13 FEM",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Gabriel José Menezes Balbino Pereira",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 435,
+    "stages": {
+      "Marília": 45,
+      "Assis": 130,
+      "Ourinhos": 130,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Gabriel Fachini Maia",
+    "team": "BIRIGUI",
+    "category": "SUB-13 MAS",
+    "total_points": 265,
+    "stages": {
+      "Marília": 130,
+      "Assis": 45,
+      "Ourinhos": 80,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Felipe Barros Messias",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 230,
+    "stages": {
+      "Marília": 80,
+      "Assis": 45,
+      "Ourinhos": 25,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Yan Fellipe Gonçalves Mandu",
+    "team": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+    "category": "SUB-13 MAS",
+    "total_points": 150,
+    "stages": {
+      "Marília": 25,
+      "Assis": 80,
+      "Ourinhos": 45
+    }
+  },
+  {
+    "name": "Guilherme Fonseca Santos",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 140,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Ourinhos": 45,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Mateus Kenji Tashiro",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-13 MAS",
+    "total_points": 120,
+    "stages": {
+      "Marília": 45,
+      "Assis": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "João Eduardo Ribeiro Mira",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 70,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Samuel Davi Martins",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 70,
+    "stages": {
+      "Marília": 25,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Lucas M Marques",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 65,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Nathan Sônego Araújo",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-13 MAS",
+    "total_points": 55,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Caio Henrique Messias Loureiro",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 55,
+    "stages": {
+      "Marília": 10,
+      "Assis": 25,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Deivid Senturião Frota Dos Santos",
+    "team": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+    "category": "SUB-13 MAS",
+    "total_points": 45,
+    "stages": {
+      "Marília": 10,
+      "Assis": 25,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Davi Da Silva Ramos",
+    "team": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+    "category": "SUB-13 MAS",
+    "total_points": 45,
+    "stages": {
+      "Marília": 25,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Breno Lucindo Da Silva",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 45,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 25,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Arthur Fernandes Bissoli",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Breno Eugenio Da Silva Mauro",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-13 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Carlos Daniel Prates Miguel",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Carlos Eduardo Giroldo Rosignolli",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Enrico Granella De Souza",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Gustavo Da Silva Freitas",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-13 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Jefferson Felipe Gonçalves Lino",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Lucas Rafael Da Cruz Ribeiro.",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Marcio Akira Rodrigues Iwata",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-13 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Nicholas Sônego Araújo",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-13 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Nicolas Bertoncelo",
+    "team": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Lorenço De Paula Infante",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Noah Nabeya Nishimura",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "SUB-13 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Pedro Da Costa Prdraça",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Samuel Ferreira Lima Rodrigues",
+    "team": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+    "category": "SUB-13 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Antonio Melios Cruz",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-13 MAS",
+    "total_points": 30,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Eduardo Montezano Pereira",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "SUB-13 MAS",
+    "total_points": 30,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Isaac Arruda Antunes",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-13 MAS",
+    "total_points": 30,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Gabriel Henrique Varotto Bove",
+    "team": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Alejandro Soprani Sousa Santos",
+    "team": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+    "category": "SUB-13 MAS",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Pietro Domingos Bertoldi",
+    "team": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+    "category": "SUB-13 MAS",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Rafael Correia Guitierres",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Mathias Felipe Dos Reis",
+    "team": "DRACENA TM-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Arthur Lopes Favarin Da Silva",
+    "team": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+    "category": "SUB-13 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Erick Rafael Rodrigues Lima",
+    "team": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+    "category": "SUB-13 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Gabriel Rodrigues Basso",
+    "team": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+    "category": "SUB-13 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "José Eduardo Ortega Valério",
+    "team": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+    "category": "SUB-13 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Matheus Alves De Oliveira",
+    "team": "BIRIGUI",
+    "category": "SUB-13 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Renato Oliveira De Almeida",
+    "team": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+    "category": "SUB-13 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Bilal Hawari",
+    "team": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Cauã Vieira De Lacerda",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Jorge Luciano Rocha",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Mateus Alves Belai",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Mateus Violante Nogueira",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Nicolas Gonçalves Xavier",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Thiago Gois Padula",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Leonardo Sato Ceballos",
+    "team": "DRACENA TM-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Enzo Paschoalino Ceciliato Vasques",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Joao Victor Garcia Da Silva",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Lucas Paschoalino Ceciliato Vasques",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Otavio Luca Silverio Tomilheiro",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Domynnyke Marques Da Silva",
+    "team": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Enzo Fernandes Spacca",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Giovanni Berriel Vidotti",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Guilherme Shimizu Sasasaki",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Ian Kenzo Narimatsu",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Miguel Chagas De Almeida",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Rafael Pandolpho Stavarengo",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Vinicius Shindi Sasasazaki Ikeda",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Arthur Possani Morales",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Cláudio Roberto Leal Filho",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Enzo Venancio Araujo",
+    "team": "BIRIGUI-SP",
+    "category": "SUB-13 MAS",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Mariana Fuzinato Pina Modesto",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-15 FEM",
+    "total_points": 390,
+    "stages": {
+      "Marília": 130,
+      "Assis": 130,
+      "Ourinhos": 130
+    }
+  },
+  {
+    "name": "Maria Fernanda Charantola",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-15 FEM",
+    "total_points": 335,
+    "stages": {
+      "Marília": 80,
+      "Assis": 80,
+      "Ourinhos": 45,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Isis Sanches Tohyama",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-15 FEM",
+    "total_points": 250,
+    "stages": {
+      "Marília": 45,
+      "Assis": 45,
+      "Ourinhos": 80,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Sarah Vitória De Lima Teixeira",
+    "team": "BIRIGUI",
+    "category": "SUB-15 FEM",
+    "total_points": 115,
+    "stages": {
+      "Marília": 45,
+      "Assis": 25,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Daniela Harue Kamikihara",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-15 FEM",
+    "total_points": 95,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Ourinhos": 45
+    }
+  },
+  {
+    "name": "Agnys Cardoso Silva",
+    "team": "BIRIGUI",
+    "category": "SUB-15 FEM",
+    "total_points": 95,
+    "stages": {
+      "Marília": 25,
+      "Assis": 45,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Mariana Fonseca Santos",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "SUB-15 FEM",
+    "total_points": 70,
+    "stages": {
+      "Marília": 25,
+      "Assis": 10,
+      "Ourinhos": 25,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Esther Rodrigues",
+    "team": "ASSOCIAÇÃO KOBU-KAN DE ESPORTES-SP",
+    "category": "SUB-15 FEM",
+    "total_points": 55,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Kimberlly Cristiane De Aquino Cambuhy",
+    "team": "ASSOCIAÇÃO KOBU-KAN DE ESPORTES-SP",
+    "category": "SUB-15 FEM",
+    "total_points": 50,
+    "stages": {
+      "Assis": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Júlia Belloto Siqueira",
+    "team": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+    "category": "SUB-15 FEM",
+    "total_points": 35,
+    "stages": {
+      "Assis": 25,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Maria Carla Barboza Do Vale",
+    "team": "DRACENA TM-SP",
+    "category": "SUB-15 FEM",
+    "total_points": 35,
+    "stages": {
+      "Marília": 25,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Júlia Marçal Leres",
+    "team": "MIRASSOL TENIS DE MESA",
+    "category": "SUB-15 FEM",
+    "total_points": 25,
+    "stages": {
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Lara Gabrielly Souza Da Silva",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "SUB-15 FEM",
+    "total_points": 25,
+    "stages": {
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Manuela Carvalho Dos Santos",
+    "team": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+    "category": "SUB-15 FEM",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Livia Fernanda Mestrinari",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "SUB-15 FEM",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Beatriz Lopes Da Silva",
+    "team": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+    "category": "SUB-15 FEM",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Margaret Nadine Ponce Cule",
+    "team": "NEW PONG - SÃO JOSÉ DO RIO PRETO/SP - ACADEMIA DE TÊNIS DE MESA",
+    "category": "SUB-15 FEM",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Pietra Teixeira Pereira Pupim",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "SUB-15 FEM",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Sophia Griao Barroca",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "SUB-15 FEM",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Gabriel Guilherme Mendes",
+    "team": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 315,
+    "stages": {
+      "Marília": 25,
+      "Assis": 130,
+      "Ourinhos": 80,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Leonardo Amaku Ishikawa",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 205,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Vitor Paceli Ribeiro Junior",
+    "team": "BIRIGUI",
+    "category": "SUB-15 MAS",
+    "total_points": 195,
+    "stages": {
+      "Marília": 25,
+      "Assis": 80,
+      "Ourinhos": 45,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Luca Esteves Magalhães",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 150,
+    "stages": {
+      "Marília": 80,
+      "Assis": 25,
+      "Ourinhos": 45
+    }
+  },
+  {
+    "name": "William Eduardo Resende Bussom",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 130,
+    "stages": {
+      "Ourinhos": 130
+    }
+  },
+  {
+    "name": "Miguel Santana Dona",
+    "team": "BIRIGUI",
+    "category": "SUB-15 MAS",
+    "total_points": 130,
+    "stages": {
+      "Marília": 130
+    }
+  },
+  {
+    "name": "Lucas Matheus Da Silva Ribeiro",
+    "team": "DRACENA TM-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 75,
+    "stages": {
+      "Marília": 45,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Enzo Castrioto De Paula",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-15 MAS",
+    "total_points": 70,
+    "stages": {
+      "Marília": 25,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Luiz Guilherme Ribeiro Queiroz",
+    "team": "ASSOCIAÇÃO KOBU-KAN DE ESPORTES-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 70,
+    "stages": {
+      "Assis": 45,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Jose Claudio Magalhaes Reis",
+    "team": "BIRIGUI",
+    "category": "SUB-15 MAS",
+    "total_points": 65,
+    "stages": {
+      "Assis": 45,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Leonardo Porciúncula Abbondanza",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 55,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Victor Hugo Rodrigues Alves",
+    "team": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 55,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 25,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Guilherme Dos Santos Oliveira",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 55,
+    "stages": {
+      "Marília": 10,
+      "Assis": 25,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Matheus Mologni Dos Santos",
+    "team": "ACADEMIA FITPONG DE TÊNIS DE MESA-PR",
+    "category": "SUB-15 MAS",
+    "total_points": 45,
+    "stages": {
+      "Marília": 45
+    }
+  },
+  {
+    "name": "Fernando Puerto Basso",
+    "team": "ASSOCIAÇÃO RCTM - SP",
+    "category": "SUB-15 MAS",
+    "total_points": 45,
+    "stages": {
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Ruan Agostinho Curto",
+    "team": "BIRIGUI",
+    "category": "SUB-15 MAS",
+    "total_points": 45,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Caetano Lopes Assem",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Caio Rodrigues Carvalho",
+    "team": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Carlos Henrique Micadei Junior",
+    "team": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Daniel Batista De Souza Fernandes",
+    "team": "DRACENA TM-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Ellivelton Miranda Do Nascimento Junior",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Enzo Hiroshi Marumoto Valentin",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Felipe Antônio De Oliveira",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Felipe Castellano Santos",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Filipi De Arruda Pereira",
+    "team": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Hugo Delai Ferreira Santos",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Jean Chaves Rocha",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "João Pedro Almagro Dos Santos Pereira",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Kelwenn Guassú Da Silva",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Leonardo Leonardi",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Lucas Tortola Rodrigues Pires",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Luiz Gustavo Da Silva",
+    "team": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Miguel Albieri Pigozzi",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Miguel Losnak Plana",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Vinicius Bertassi Panes",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Willian Gomes Pinheiro",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Matheus De Oliveira Santos",
+    "team": "TÊNIS DE MESA DE VOTUPORANGA-LIGA",
+    "category": "SUB-15 MAS",
+    "total_points": 35,
+    "stages": {
+      "Ourinhos": 25,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Matheus Henrique Santos Torregrosa",
+    "team": "ASSOCIAÇÃO KOBU-KAN DE ESPORTES-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 35,
+    "stages": {
+      "Assis": 25,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Miguel Lista Saito",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "SUB-15 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Nicolas Nabeya Nishimura",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "SUB-15 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Pedro Henrique Dos Santos De Santana",
+    "team": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+    "category": "SUB-15 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Adam Mataragia De Carvalho",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 30,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "João Pedro Possas Guimarães",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "SUB-15 MAS",
+    "total_points": 30,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "João Pedro Silva De Moura",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 30,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Augusto Machi Bertucci",
+    "team": "BIRIGUI",
+    "category": "SUB-15 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Gabriel Willian Ragassi De Araujo",
+    "team": "DRACENA TM-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Matheus Luiz De Oliveira Miranda",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Matheus Martins De Abreu",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-15 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Gabriel Henrique Braga Augusto",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 25,
+    "stages": {
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Benjamin Martinez Tsen",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "SUB-15 MAS",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Henrique Augusto Bicok Dos Santos",
+    "team": "TÊNIS DE MESA DE VOTUPORANGA-LIGA",
+    "category": "SUB-15 MAS",
+    "total_points": 20,
+    "stages": {
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Bruno Kaue Souza Belloto",
+    "team": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+    "category": "SUB-15 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Cauã Gabriel Flores De Lima",
+    "team": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+    "category": "SUB-15 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Gabriel José Targon Rodrigues",
+    "team": "ASSOCIAÇÃO KOBU-KAN DE ESPORTES-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "João Vittor Alcantara De Souza",
+    "team": "ASSOCIAÇÃO KOBU-KAN DE ESPORTES-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Kauan Ryan De Souza",
+    "team": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+    "category": "SUB-15 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Kauan Victor Da Silva",
+    "team": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+    "category": "SUB-15 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Luís Otávio Garcia De Oliveira",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "SUB-15 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Pedro Henrique Bastos De Melo",
+    "team": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+    "category": "SUB-15 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Rubens Henrique Franco",
+    "team": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+    "category": "SUB-15 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Yan Guilherme Rocha Amaral",
+    "team": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+    "category": "SUB-15 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Carlos Eduardo Leite Lourenção",
+    "team": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Enzo Beltrame Santos",
+    "team": "ASSOC.JAUENSE DE T.M./PREFEITURA DE JAÚ-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Leonardo Pieroni Ramirez",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Matheus Macedo Brito",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Pedro Augusto Ribeiro De Oliveira Souza",
+    "team": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+    "category": "SUB-15 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Benicio Luca Silverio Tomilheiro",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-15 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Felipe David Andreotti",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-15 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Hugo  Mazzetto Gomes",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-15 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Joao Gabriel Oliveira Lopes",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Murilo Placa Do Prado",
+    "team": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Arthur Campos Duarte",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Gabriel Da Silva Florêncio Araújo",
+    "team": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+    "category": "SUB-15 MAS",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Giovanni Fernandes",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Miguel Galhardo Bertaglia",
+    "team": "BIRIGUI",
+    "category": "SUB-15 MAS",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Philippi Gabriel Neves Da Silva",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "SUB-15 MAS",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Vitor Ligeiro",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Wesley André Fernandes Dos Santos Pena",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Arthur De Melo Figueira",
+    "team": "BIRIGUI-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Francisco Possani Morales",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-15 MAS",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Gabriel Martins Delgado Longo",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Guilherme Lima Teruel",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-15 MAS",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Paulo Vinicius Da Silva Medeiros",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 0,
+    "stages": {}
+  },
+  {
+    "name": "Pedro Yuma Tane",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-15 MAS",
+    "total_points": 0,
+    "stages": {}
+  },
+  {
+    "name": "Gabriela Teixeira Spilari",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-19 FEM",
+    "total_points": 340,
+    "stages": {
+      "Marília": 130,
+      "Assis": 130,
+      "Ourinhos": 80
+    }
+  },
+  {
+    "name": "Ana Clara Pires Gonzales",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-19 FEM",
+    "total_points": 305,
+    "stages": {
+      "Marília": 45,
+      "Ourinhos": 130,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Larissa Silva Dos Santos",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-19 FEM",
+    "total_points": 285,
+    "stages": {
+      "Marília": 80,
+      "Assis": 80,
+      "Ourinhos": 45,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Amanda Yurie Nishioka Takatsuji",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-19 FEM",
+    "total_points": 160,
+    "stages": {
+      "Marília": 45,
+      "Assis": 45,
+      "Ourinhos": 45,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Beatriz De Sousa",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "SUB-19 FEM",
+    "total_points": 100,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Letícia Caroline Sant´Ana Ferreira",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-19 FEM",
+    "total_points": 100,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Ana Vitoria Conceição Lopes",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-19 FEM",
+    "total_points": 90,
+    "stages": {
+      "Marília": 10,
+      "Assis": 45,
+      "Ourinhos": 25,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Helena Guarnieri Ferreira",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-19 FEM",
+    "total_points": 60,
+    "stages": {
+      "Marília": 10,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Thabata G M Albertin",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-19 FEM",
+    "total_points": 50,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25
+    }
+  },
+  {
+    "name": "Manuella Malta Bistaffa",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-19 FEM",
+    "total_points": 45,
+    "stages": {
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Mariana Fuzinato Pina Modesto",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-19 FEM",
+    "total_points": 45,
+    "stages": {
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Maria Eduarda Laborda Rodrigues",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-19 FEM",
+    "total_points": 45,
+    "stages": {
+      "Marília": 25,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Isabele Rodrigues Ferreira",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "SUB-19 FEM",
+    "total_points": 25,
+    "stages": {
+      "Assis": 25
+    }
+  },
+  {
+    "name": "Isabelly Mochiuti Mandú",
+    "team": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+    "category": "SUB-19 FEM",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Karoline Vasconcelos Basso",
+    "team": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+    "category": "SUB-19 FEM",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Késia Vitória Da Silva Santana",
+    "team": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+    "category": "SUB-19 FEM",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Samela Fernanda De Camargo",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-19 FEM",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Izabella Lacava De Brito",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-19 FEM",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "José Henrique Mariano",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 520,
+    "stages": {
+      "Marília": 130,
+      "Assis": 130,
+      "Ourinhos": 130,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Kauê Augusto Ferreira Araújo",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 215,
+    "stages": {
+      "Marília": 80,
+      "Assis": 45,
+      "Ourinhos": 45,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Victor Pinhatar",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 160,
+    "stages": {
+      "Ourinhos": 80,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Roberto Alves Taveira Neto",
+    "team": "BIRIGUI",
+    "category": "SUB-19 MAS",
+    "total_points": 145,
+    "stages": {
+      "Marília": 45,
+      "Assis": 45,
+      "Ourinhos": 45,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Kauã Gabriel Partezani",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 125,
+    "stages": {
+      "Marília": 10,
+      "Assis": 80,
+      "Ourinhos": 25,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Kevyn Oliveira Polli",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 85,
+    "stages": {
+      "Marília": 25,
+      "Assis": 10,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Rauhã Segantine Da Graça",
+    "team": "ASSOCIAÇÃO KOBU-KAN DE ESPORTES-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 70,
+    "stages": {
+      "Assis": 25,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Carlos Eduardo Gonçalves Suplano",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 70,
+    "stages": {
+      "Marília": 25,
+      "Assis": 10,
+      "Ourinhos": 25,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "João Vitor Mendes Guilherme",
+    "team": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 55,
+    "stages": {
+      "Marília": 10,
+      "Assis": 25,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Caio P Bim",
+    "team": "BIRIGUI",
+    "category": "SUB-19 MAS",
+    "total_points": 55,
+    "stages": {
+      "Marília": 45,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Nicolas Moura Lasnou",
+    "team": "MIRASSOL TENIS DE MESA",
+    "category": "SUB-19 MAS",
+    "total_points": 50,
+    "stages": {
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Wesley Teh Kao",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-19 MAS",
+    "total_points": 45,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Bento De Morais Navarro",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Bruno Rocha De Souza",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Caio Guilherme Dias Marena",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Heitor Tolentino Da Silva",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "João De Morais Navarro",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Lucas Garcia Rôa",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Lucas Henrique Nascimento Nazo",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Matheus Henzo Okada Esaki",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Paulo Andre  Potazio De Almeida",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Filipe Rossi Costa",
+    "team": "ASSOC.JAUENSE DE T.M./PREFEITURA DE JAÚ-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 35,
+    "stages": {
+      "Assis": 25,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Gustavo Da Silva Martinez",
+    "team": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+    "category": "SUB-19 MAS",
+    "total_points": 35,
+    "stages": {
+      "Marília": 25,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Enzo Gimenez Seefelder",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-19 MAS",
+    "total_points": 35,
+    "stages": {
+      "Marília": 25,
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Thiago Luis Pereira",
+    "team": "ASSOCIAÇÃO KOBU-KAN DE ESPORTES-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 35,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Lucas Takaki Mendes De Carvalho",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-19 MAS",
+    "total_points": 35,
+    "stages": {
+      "Assis": 25,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Gabriel Batista Spiller",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Lucas Batista Spiller",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Isaac Mantovani De Farias",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 30,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Haroldo Evangelista De Souza",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 30,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Samuel Isaque Bittencourt Da Silva",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Eliel Jonas Pereira Júnior",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "SUB-19 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Guilherme Andrelino Evans",
+    "team": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+    "category": "SUB-19 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "João Victor Da Silva Ramos",
+    "team": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+    "category": "SUB-19 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Erick Kazuo Hinoue Morais",
+    "team": "DRACENA TM-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Rafael Eiji Hissamura",
+    "team": "BIRIGUI",
+    "category": "SUB-19 MAS",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Vinicius De Oliveira Silva",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Mateus Guerrero Alpresi Freire",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 20,
+    "stages": {
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Miguel Antônio Lahos",
+    "team": "BIRIGUI",
+    "category": "SUB-19 MAS",
+    "total_points": 20,
+    "stages": {
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Andrey Kauê Nunes Bezerra",
+    "team": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+    "category": "SUB-19 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Gustavo Dos Santos Azevedo",
+    "team": "BIRIGUI",
+    "category": "SUB-19 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Samuel De Souza Barbosa",
+    "team": "ASSOCIAÇÃO KOBU-KAN DE ESPORTES-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Tito Galvão Barbosa",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-19 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Rayan Souza Tolardo",
+    "team": "DRACENA TM-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Abner Duarte Lima",
+    "team": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "João Ricardo Dos Reis Ferracini",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Luiz Gustavo Lazarin Dos Santos",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "João Eduardo Ribeiro De Souza",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-19 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Luis Felipe Marques Hernandes Lemes",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-19 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Luiz Fabiano Lima De Oliveira",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Marcos Paulo Brambila",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Kauã Henrique Satyro Dos Santos",
+    "team": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+    "category": "SUB-19 MAS",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Mateus Gabriel Arriero Xavier",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-19 MAS",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Gustavo Pereira Soler",
+    "team": "BIRIGUI-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Otávio Luis Pereira De Lima Silva",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-19 MAS",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Willian Alex Pereira Alves",
+    "team": "TÊNIS DE MESA DE VOTUPORANGA-LIGA",
+    "category": "SUB-19 MAS",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Ytalo Birochi Ataniel Silva",
+    "team": "BIRIGUI-SP",
+    "category": "SUB-19 MAS",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Daniel Henrique Gonçalves",
+    "team": "TÊNIS DE MESA DE VOTUPORANGA-LIGA",
+    "category": "SUB-19 MAS",
+    "total_points": 0,
+    "stages": {}
+  },
+  {
+    "name": "Maria Eloisa Menezes Pereira Balbino",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-21 FEM",
+    "total_points": 520,
+    "stages": {
+      "Marília": 130,
+      "Assis": 130,
+      "Ourinhos": 130,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Sabrina Pinheiro Miranda",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-21 FEM",
+    "total_points": 320,
+    "stages": {
+      "Marília": 80,
+      "Assis": 80,
+      "Ourinhos": 80,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Ana Clara Carvalho Mendonça",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-21 FEM",
+    "total_points": 140,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Ourinhos": 45,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Byatriz Martins Pereira",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-21 FEM",
+    "total_points": 135,
+    "stages": {
+      "Marília": 45,
+      "Assis": 45,
+      "Ourinhos": 45
+    }
+  },
+  {
+    "name": "Juliana Pinheiro Rocha",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-21 FEM",
+    "total_points": 90,
+    "stages": {
+      "Marília": 45,
+      "Assis": 45
+    }
+  },
+  {
+    "name": "Helena Mendes Santos",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "SUB-21 FEM",
+    "total_points": 60,
+    "stages": {
+      "Marília": 10,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Estela Yukari Nisiyama",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "SUB-21 FEM",
+    "total_points": 50,
+    "stages": {
+      "Marília": 25,
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Thabata G M Albertin",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-21 FEM",
+    "total_points": 50,
+    "stages": {
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Jaqueline De Lima Varela",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SUB-21 FEM",
+    "total_points": 45,
+    "stages": {
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Samela Fernanda De Camargo",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-21 FEM",
+    "total_points": 25,
+    "stages": {
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Fabiana Campos Castro De Carvalho",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-21 FEM",
+    "total_points": 25,
+    "stages": {
+      "Marília": 25
+    }
+  },
+  {
+    "name": "Nathalia Mike Moura Nakai",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "SUB-21 FEM",
+    "total_points": 25,
+    "stages": {
+      "Marília": 25
+    }
+  },
+  {
+    "name": "Tiago Fuzinato Pina Modesto",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-21 MAS",
+    "total_points": 420,
+    "stages": {
+      "Marília": 80,
+      "Assis": 130,
+      "Ourinhos": 80,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Mateus Athaide Dos Santos Dos Reis",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-21 MAS",
+    "total_points": 420,
+    "stages": {
+      "Marília": 130,
+      "Assis": 80,
+      "Ourinhos": 130,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Kaua Kevin Alves Cruz",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SUB-21 MAS",
+    "total_points": 145,
+    "stages": {
+      "Marília": 45,
+      "Assis": 45,
+      "Ourinhos": 10,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Carlos Eduardo Bonato",
+    "team": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "category": "SUB-21 MAS",
+    "total_points": 140,
+    "stages": {
+      "Marília": 25,
+      "Assis": 45,
+      "Ourinhos": 45,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Kauan Shoji",
+    "team": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+    "category": "SUB-21 MAS",
+    "total_points": 85,
+    "stages": {
+      "Marília": 10,
+      "Assis": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Matheus  De Morais Batista",
+    "team": "BIRIGUI",
+    "category": "SUB-21 MAS",
+    "total_points": 75,
+    "stages": {
+      "Marília": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Pedro Henrique Salvador",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-21 MAS",
+    "total_points": 70,
+    "stages": {
+      "Marília": 25,
+      "Ourinhos": 45
+    }
+  },
+  {
+    "name": "Rafael Eiji Hissamura",
+    "team": "BIRIGUI",
+    "category": "SUB-21 MAS",
+    "total_points": 70,
+    "stages": {
+      "Ourinhos": 25,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Guilherme Alves Da Silveira",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "SUB-21 MAS",
+    "total_points": 65,
+    "stages": {
+      "Marília": 45,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "William Sanches Souza",
+    "team": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "category": "SUB-21 MAS",
+    "total_points": 55,
+    "stages": {
+      "Marília": 10,
+      "Assis": 25,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Endric Menon Ribeiro",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-21 MAS",
+    "total_points": 45,
+    "stages": {
+      "Marília": 10,
+      "Assis": 25,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Pedro Henrique Dos Reis Da Silva",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "SUB-21 MAS",
+    "total_points": 45,
+    "stages": {
+      "Marília": 25,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Vinicius Araujo Ventura",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-21 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Eduardo André De Oliveira",
+    "team": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+    "category": "SUB-21 MAS",
+    "total_points": 35,
+    "stages": {
+      "Marília": 10,
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Marcos Paulo Brambila",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-21 MAS",
+    "total_points": 35,
+    "stages": {
+      "Ourinhos": 10,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Felipe Teixeira Marreira",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "SUB-21 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Jean Pablo Nazo",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SUB-21 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Vinícius Marcolar Tavares",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-21 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Artur Bortoloci Zarelli",
+    "team": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+    "category": "SUB-21 MAS",
+    "total_points": 25,
+    "stages": {
+      "Assis": 25
+    }
+  },
+  {
+    "name": "João Pedro Godoy",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SUB-21 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Arthur Henrique Silva Dos Santos",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-21 MAS",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Jefferson Gomes Carvalho",
+    "team": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+    "category": "SUB-21 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Lucas Ferrari Jaime",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SUB-21 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Benjamin Martinez Tsen",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "SUB-21 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Renan Guilherme Silva Fontes",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SUB-21 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Júlio Uehara Nogueira De Barros Leite",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "SUB-21 MAS",
+    "total_points": 0,
+    "stages": {}
+  },
+  {
+    "name": "Henrique Eduardo Ferreira De Souza",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 335,
+    "stages": {
+      "Marília": 45,
+      "Assis": 80,
+      "Ourinhos": 130,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Caio César Gardenal",
+    "team": "BIRIGUI",
+    "category": "SÊNIOR 30",
+    "total_points": 245,
+    "stages": {
+      "Marília": 45,
+      "Assis": 45,
+      "Ourinhos": 25,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Eduardo Henrique Ferri Salinas",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 220,
+    "stages": {
+      "Marília": 80,
+      "Assis": 130,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Claudio Massad",
+    "team": "SESI-SP/INSTITUTO MATOSTT",
+    "category": "SÊNIOR 30",
+    "total_points": 130,
+    "stages": {
+      "Marília": 130
+    }
+  },
+  {
+    "name": "Mário Henrique De Almeida Zocante",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 115,
+    "stages": {
+      "Marília": 25,
+      "Assis": 45,
+      "Ourinhos": 45
+    }
+  },
+  {
+    "name": "Júlio César Pereira",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SÊNIOR 30",
+    "total_points": 100,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Felipe Fernandes Silveira",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 95,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Ourinhos": 45
+    }
+  },
+  {
+    "name": "Wagner Júnior Dos Santos Da Fonseca",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 90,
+    "stages": {
+      "Marília": 10,
+      "Ourinhos": 80
+    }
+  },
+  {
+    "name": "Marcus Vinicius Maia Da Cruz",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 70,
+    "stages": {
+      "Assis": 25,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Douglas Cassiano De Pais",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 70,
+    "stages": {
+      "Marília": 10,
+      "Assis": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Tiago Silva Kakeya",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 50,
+    "stages": {
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Adriano Eira Dos Santos Sacras",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 45,
+    "stages": {
+      "Marília": 25,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Luís Gustavo De Oliveira Vilela",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SÊNIOR 30",
+    "total_points": 45,
+    "stages": {
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Marcelo De Sotti Sabbo Sanches",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 45,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Erik Hideki Higuchi",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "SÊNIOR 30",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Rafael Eidi Tsukahara",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Vinicius Gomes De Aguiar",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Matheus Forte Amarante",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 35,
+    "stages": {
+      "Marília": 10,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "João Paulo Guazelli Souto De Oliveira",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SÊNIOR 30",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Lucas Alves Gonçalves",
+    "team": "TM ÁLVARES MACHADO-LIGA-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "João Vitor De Oliveira Cara",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "SÊNIOR 30",
+    "total_points": 30,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Thiago Fonseca Tahara",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SÊNIOR 30",
+    "total_points": 30,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Wagner Willian Pescara",
+    "team": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 30,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Guilherme Pedon Makauskas",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Ednei Carlos Da Silva",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SÊNIOR 30",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Anderson Filipe Chaves",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Diego Pereira De Souza",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Sandro Hilla",
+    "team": "TECHPONG ACADEMY/TIBHAR/COC SANTA CATARINA - SC",
+    "category": "SÊNIOR 30",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Ruan Faustino Souza",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SÊNIOR 30",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Gabriel Dos Santos Godoy Ura",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 20,
+    "stages": {
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Alessandro Luiz De Freitas",
+    "team": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Caio Andre Marques",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SÊNIOR 30",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Rafael Bernardo Messias",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Fabio Luca Tomilheiro Junior",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SÊNIOR 30",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Kaique De Andrade Tomazinho",
+    "team": "ACADEMIA FITPONG DE TÊNIS DE MESA-PR",
+    "category": "SÊNIOR 30",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Pedro Henrique Benites Aoki",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SÊNIOR 30",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Vitor Hugo Garcia De Souza",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SÊNIOR 30",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Gabriel Lin Wang",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Jonathan Braga",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "SÊNIOR 30",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Fabrício Martinho Dos Santos",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SÊNIOR 30",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Gabriel Silva Tinem",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SÊNIOR 30",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Guilherme Henrique Tomazini",
+    "team": "BIRIGUI-SP",
+    "category": "SÊNIOR 30",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "João Victor De Oliveira Flores",
+    "team": "TÊNIS DE MESA DE VOTUPORANGA-LIGA",
+    "category": "SÊNIOR 30",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Renan Terassaka Dias",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "SÊNIOR 30",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 9345,
+    "stages": {
+      "Marília": 2750,
+      "Assis": 2245,
+      "Ourinhos": 2070,
+      "Araçatuba": 2280
+    }
+  },
+  {
+    "name": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 6060,
+    "stages": {
+      "Marília": 1390,
+      "Assis": 1630,
+      "Ourinhos": 1555,
+      "Araçatuba": 1485
+    }
+  },
+  {
+    "name": "ASSOC. NOVA ERA DE T.M.-SP",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 3300,
+    "stages": {
+      "Marília": 795,
+      "Assis": 500,
+      "Ourinhos": 875,
+      "Araçatuba": 1130
+    }
+  },
+  {
+    "name": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 3125,
+    "stages": {
+      "Marília": 560,
+      "Assis": 720,
+      "Ourinhos": 1300,
+      "Araçatuba": 545
+    }
+  },
+  {
+    "name": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 2775,
+    "stages": {
+      "Marília": 640,
+      "Assis": 600,
+      "Ourinhos": 725,
+      "Araçatuba": 810
+    }
+  },
+  {
+    "name": "BIRIGUI",
+    "team": "BIRIGUI",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 2270,
+    "stages": {
+      "Marília": 740,
+      "Assis": 505,
+      "Ourinhos": 495,
+      "Araçatuba": 530
+    }
+  },
+  {
+    "name": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 1590,
+    "stages": {
+      "Marília": 390,
+      "Assis": 485,
+      "Ourinhos": 500,
+      "Araçatuba": 215
+    }
+  },
+  {
+    "name": "ACERT TUPÃ - LIGA - SP",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 1395,
+    "stages": {
+      "Marília": 265,
+      "Assis": 560,
+      "Ourinhos": 240,
+      "Araçatuba": 330
+    }
+  },
+  {
+    "name": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "team": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 1190,
+    "stages": {
+      "Marília": 225,
+      "Assis": 460,
+      "Ourinhos": 275,
+      "Araçatuba": 230
+    }
+  },
+  {
+    "name": "ATEMEL/ACEL LONDRINA - PR",
+    "team": "ATEMEL/ACEL LONDRINA - PR",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 975,
+    "stages": {
+      "Marília": 330,
+      "Assis": 130,
+      "Ourinhos": 255,
+      "Araçatuba": 260
+    }
+  },
+  {
+    "name": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "team": "TENIS DE MESA PAULISTA-OSVALDO CRUZ-SP",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 645,
+    "stages": {
+      "Marília": 145,
+      "Assis": 165,
+      "Ourinhos": 145,
+      "Araçatuba": 190
+    }
+  },
+  {
+    "name": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+    "team": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 590,
+    "stages": {
+      "Marília": 80,
+      "Assis": 215,
+      "Ourinhos": 95,
+      "Araçatuba": 200
+    }
+  },
+  {
+    "name": "PRESIDENTE VENCESLAU-SP",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 545,
+    "stages": {
+      "Marília": 145,
+      "Assis": 70,
+      "Ourinhos": 165,
+      "Araçatuba": 165
+    }
+  },
+  {
+    "name": "TM ÁLVARES MACHADO-LIGA-SP",
+    "team": "TM ÁLVARES MACHADO-LIGA-SP",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 520,
+    "stages": {
+      "Marília": 130,
+      "Assis": 130,
+      "Ourinhos": 130,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "MIRASSOL TENIS DE MESA",
+    "team": "MIRASSOL TENIS DE MESA",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 365,
+    "stages": {
+      "Ourinhos": 25,
+      "Araçatuba": 340
+    }
+  },
+  {
+    "name": "DRACENA TM-SP",
+    "team": "DRACENA TM-SP",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 330,
+    "stages": {
+      "Marília": 120,
+      "Assis": 175,
+      "Ourinhos": 25,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+    "team": "TM OESTE PAULISTA–PRESIDENTE EPITÁCIO -SP",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 275,
+    "stages": {
+      "Marília": 75,
+      "Assis": 105,
+      "Ourinhos": 70,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "ASSOCIAÇÃO NIKKEY SÃO JOSÉ DOS CAMPOS - SP",
+    "team": "ASSOCIAÇÃO NIKKEY SÃO JOSÉ DOS CAMPOS - SP",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 260,
+    "stages": {
+      "Marília": 130,
+      "Assis": 130
+    }
+  },
+  {
+    "name": "ARTM/ACER - ROLÂNDIA - PR",
+    "team": "ARTM/ACER - ROLÂNDIA - PR",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 240,
+    "stages": {
+      "Marília": 135,
+      "Assis": 70,
+      "Ourinhos": 25,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "MASTER PONG TT ACADEMIA-SP",
+    "team": "MASTER PONG TT ACADEMIA-SP",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 210,
+    "stages": {
+      "Assis": 210
+    }
+  },
+  {
+    "name": "ASSOC.JAUENSE DE T.M./PREFEITURA DE JAÚ-SP",
+    "team": "ASSOC.JAUENSE DE T.M./PREFEITURA DE JAÚ-SP",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 155,
+    "stages": {
+      "Assis": 25,
+      "Ourinhos": 130
+    }
+  },
+  {
+    "name": "SESI-SP/INSTITUTO MATOSTT",
+    "team": "SESI-SP/INSTITUTO MATOSTT",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 130,
+    "stages": {
+      "Marília": 130
+    }
+  },
+  {
+    "name": "ASSOCIAÇÃO KOBU-KAN DE ESPORTES-SP",
+    "team": "ASSOCIAÇÃO KOBU-KAN DE ESPORTES-SP",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 120,
+    "stages": {
+      "Assis": 120
+    }
+  },
+  {
+    "name": "ASSOCIAÇÃO RCTM - SP",
+    "team": "ASSOCIAÇÃO RCTM - SP",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 115,
+    "stages": {
+      "Araçatuba": 115
+    }
+  },
+  {
+    "name": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+    "team": "TM OESTE PAULISTA LUCELIA-SP-LIGA",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 75,
+    "stages": {
+      "Assis": 50,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "TÊNIS DE MESA DE VOTUPORANGA-LIGA",
+    "team": "TÊNIS DE MESA DE VOTUPORANGA-LIGA",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 35,
+    "stages": {
+      "Ourinhos": 25,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "CLUBE ITUANO DE ESPORTES-SP",
+    "team": "CLUBE ITUANO DE ESPORTES-SP",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 25,
+    "stages": {
+      "Assis": 25
+    }
+  },
+  {
+    "name": "ACADEMIA FITPONG DE TÊNIS DE MESA-PR",
+    "team": "ACADEMIA FITPONG DE TÊNIS DE MESA-PR",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10
+    }
+  },
+  {
+    "name": "TECHPONG ACADEMY/TIBHAR/COC SANTA CATARINA - SC",
+    "team": "TECHPONG ACADEMY/TIBHAR/COC SANTA CATARINA - SC",
+    "category": "TROFÉU EFICIÊNCIA",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Sheila Souza",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 40 FEM",
+    "total_points": 520,
+    "stages": {
+      "Marília": 130,
+      "Assis": 130,
+      "Ourinhos": 130,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Ana Paula Fumie Sakihama",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 40 FEM",
+    "total_points": 285,
+    "stages": {
+      "Marília": 80,
+      "Assis": 45,
+      "Ourinhos": 80,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Rejane De Oliveira Pinto",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "VETERANO 40 FEM",
+    "total_points": 180,
+    "stages": {
+      "Marília": 45,
+      "Assis": 45,
+      "Ourinhos": 45,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Mariana Rodrigues Gehre Chagas",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "VETERANO 40 FEM",
+    "total_points": 160,
+    "stages": {
+      "Marília": 45,
+      "Assis": 25,
+      "Ourinhos": 45,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Larissa Tassi Lobato",
+    "team": "MASTER PONG TT ACADEMIA-SP",
+    "category": "VETERANO 40 FEM",
+    "total_points": 80,
+    "stages": {
+      "Assis": 80
+    }
+  },
+  {
+    "name": "Jany Lucia Mantovan Yassuda",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "VETERANO 40 FEM",
+    "total_points": 75,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Priscila Galbiatti Vespa Imamura",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "VETERANO 40 FEM",
+    "total_points": 50,
+    "stages": {
+      "Assis": 25,
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Graziela Ananias Soares Pistori",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "VETERANO 40 FEM",
+    "total_points": 50,
+    "stages": {
+      "Marília": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Alexandre Bitencourt De Almeida",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 365,
+    "stages": {
+      "Marília": 25,
+      "Assis": 80,
+      "Ourinhos": 130,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Márcio José Barbosa   Lima",
+    "team": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 300,
+    "stages": {
+      "Marília": 45,
+      "Assis": 130,
+      "Ourinhos": 80,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Fabio P Navarro",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 265,
+    "stages": {
+      "Marília": 130,
+      "Assis": 45,
+      "Ourinhos": 45,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Leandro De Andrade Tajero",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 250,
+    "stages": {
+      "Marília": 80,
+      "Assis": 45,
+      "Ourinhos": 45,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Paulo A. Pistori",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 100,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Thiago Silva Cerqueira",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 85,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Nilson Noboru Tohyama",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 75,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Giuliano Hideo Thomazini Fukasawa",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 55,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 25,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Carlos De Oliveira",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 45,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Marcio Makoto Missaka",
+    "team": "ARTM/ACER - ROLÂNDIA - PR",
+    "category": "VETERANO 40 MAS",
+    "total_points": 45,
+    "stages": {
+      "Marília": 45
+    }
+  },
+  {
+    "name": "Denisson Gerez Silva",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 45,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Ademir José De  Deus",
+    "team": "BIRIGUI",
+    "category": "VETERANO 40 MAS",
+    "total_points": 45,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Carlos Alberto Maiello Junior",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Eduardo Oliveira Marques",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Gustavo Nishimura Aragaki",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Kengi Ricardo Yassuda",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Leonardo  L Pasquim",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Adriano Nogueira De Moraes",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Carlos Tadeu Guioti",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Luiz Henrique Garrido De Melo",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Rafael Molero Galdino",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Renato Silva Homse",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Marcos Vinicius Braga Paião",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Rafael Bernardo Messias",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Thiago Cristiano Gense",
+    "team": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 25,
+    "stages": {
+      "Assis": 25
+    }
+  },
+  {
+    "name": "Rogério Alves Fileto",
+    "team": "TÊNIS DE MESA DE VOTUPORANGA-LIGA",
+    "category": "VETERANO 40 MAS",
+    "total_points": 20,
+    "stages": {
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Fernando Luis Barbosa",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Danilo Aparecido Da Silva",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Gilmar Polônio Filho",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Alan Francisco",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Ivo Santos",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Tiago Evandro Spacca",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Felipe Camelo Biagi",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Humberto Basso",
+    "team": "ASSOCIAÇÃO RCTM - SP",
+    "category": "VETERANO 40 MAS",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Marcio Roberto D Elia",
+    "team": "MIRASSOL TENIS DE MESA",
+    "category": "VETERANO 40 MAS",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Daniela O Lopes",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 50 FEM",
+    "total_points": 520,
+    "stages": {
+      "Marília": 130,
+      "Assis": 130,
+      "Ourinhos": 130,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Laura Silvia De Almeida Misael",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 50 FEM",
+    "total_points": 285,
+    "stages": {
+      "Marília": 80,
+      "Assis": 80,
+      "Ourinhos": 45,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Miki Kaneko Hayashi",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "VETERANO 50 FEM",
+    "total_points": 135,
+    "stages": {
+      "Assis": 45,
+      "Ourinhos": 45,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Claudia Sayuri Uenaka",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "VETERANO 50 FEM",
+    "total_points": 135,
+    "stages": {
+      "Marília": 45,
+      "Assis": 45,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Lucia Helena Moreli",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 50 FEM",
+    "total_points": 95,
+    "stages": {
+      "Marília": 45,
+      "Assis": 25,
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Monica Cristina Camargo Neves",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "VETERANO 50 FEM",
+    "total_points": 80,
+    "stages": {
+      "Ourinhos": 80
+    }
+  },
+  {
+    "name": "Marilice Barcarollo",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 50 FEM",
+    "total_points": 75,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Paula Sayuri Kamimoto",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "VETERANO 50 FEM",
+    "total_points": 50,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25
+    }
+  },
+  {
+    "name": "Ana Paula Palma Tomilheiro",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 50 FEM",
+    "total_points": 25,
+    "stages": {
+      "Assis": 25
+    }
+  },
+  {
+    "name": "Sônia Regina Basso Copi",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "VETERANO 50 FEM",
+    "total_points": 0,
+    "stages": {}
+  },
+  {
+    "name": "Alexandre Lazarim Caldeira",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 470,
+    "stages": {
+      "Marília": 130,
+      "Assis": 80,
+      "Ourinhos": 130,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Rudemir Afonso Piassi",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 185,
+    "stages": {
+      "Marília": 25,
+      "Ourinhos": 80,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Fábio Tadayoshi Sazaki",
+    "team": "ARTM/ACER - ROLÂNDIA - PR",
+    "category": "VETERANO 50 MAS",
+    "total_points": 160,
+    "stages": {
+      "Marília": 45,
+      "Assis": 45,
+      "Ourinhos": 25,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Fábio Mizutani",
+    "team": "MASTER PONG TT ACADEMIA-SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 130,
+    "stages": {
+      "Assis": 130
+    }
+  },
+  {
+    "name": "Rodrigo Sé Patrício De Barros",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 125,
+    "stages": {
+      "Marília": 10,
+      "Assis": 45,
+      "Ourinhos": 45,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Jorge Luis De Campos",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 120,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Adilson Ossamu Kubo",
+    "team": "ARTM/ACER - ROLÂNDIA - PR",
+    "category": "VETERANO 50 MAS",
+    "total_points": 105,
+    "stages": {
+      "Marília": 45,
+      "Assis": 25,
+      "Ourinhos": 10,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Acácio Benedicto Chaves",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 85,
+    "stages": {
+      "Marília": 10,
+      "Assis": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Wilson Roberto De Oliveira",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 85,
+    "stages": {
+      "Marília": 10,
+      "Assis": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Nelson Luís Machado",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 80,
+    "stages": {
+      "Marília": 80
+    }
+  },
+  {
+    "name": "Adalberto Corrêa Borges",
+    "team": "ATEMEL/ACEL LONDRINA - PR",
+    "category": "VETERANO 50 MAS",
+    "total_points": 70,
+    "stages": {
+      "Marília": 25,
+      "Ourinhos": 45
+    }
+  },
+  {
+    "name": "Guilherme Mendes De Carvalho",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 55,
+    "stages": {
+      "Marília": 25,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Almir Rogério Bortoleto",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Emerson Luís De Souza",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Luis Henrique Yoshimi Kubota",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Romeu Santos Martins",
+    "team": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Sergio Tochiaki Sakai",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Walmir Pereira Salmazzo",
+    "team": "TM ÁLVARES MACHADO-LIGA-SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Ilson Cardoso De Araújo",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Fábio César Gomes",
+    "team": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 30,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Alexandre Hideki Minamoto",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 30,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Leandro Marques",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 30,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Carlos Alberto Franzini Meirelles",
+    "team": "DRACENA TM-SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "José De Andrade Carvalho Neto",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 30,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Fábio Hissayoshi Oku",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 20,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Luciano De Lima",
+    "team": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Carlos Eduardo De Aqunio",
+    "team": "PRESIDENTE VENCESLAU-SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10
+    }
+  },
+  {
+    "name": "João Candido De Oliveira Porto",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 20,
+    "stages": {
+      "Marília": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Auro Mitsuyoshi Sakuraba",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Marcelo Augusto Mestrinari",
+    "team": "NEW PONG ACADEMIA DE TÊNIS DE MESA/SJRP-SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 10,
+    "stages": {
+      "Assis": 10
+    }
+  },
+  {
+    "name": "Élcio Inácio Júnior",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 10,
+    "stages": {
+      "Marília": 10
+    }
+  },
+  {
+    "name": "Renato Dias",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "VETERANO 50 MAS",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Celia  Mayumi Ideriha",
+    "team": "BIRIGUI",
+    "category": "VETERANO 60 FEM",
+    "total_points": 385,
+    "stages": {
+      "Marília": 130,
+      "Assis": 80,
+      "Ourinhos": 130,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Toyomi Adachi",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "VETERANO 60 FEM",
+    "total_points": 255,
+    "stages": {
+      "Marília": 80,
+      "Assis": 45,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Teresa Kimi Kumazawa Kato",
+    "team": "BIRIGUI",
+    "category": "VETERANO 60 FEM",
+    "total_points": 180,
+    "stages": {
+      "Marília": 45,
+      "Assis": 45,
+      "Ourinhos": 45,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Mitiko Higashi Hatta Yamasaki",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "VETERANO 60 FEM",
+    "total_points": 155,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Ourinhos": 80,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Ieda Maria Munhos Benedetti",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "VETERANO 60 FEM",
+    "total_points": 130,
+    "stages": {
+      "Assis": 130
+    }
+  },
+  {
+    "name": "Marly Akemi Sakaida",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "VETERANO 60 FEM",
+    "total_points": 115,
+    "stages": {
+      "Marília": 45,
+      "Assis": 25,
+      "Ourinhos": 45
+    }
+  },
+  {
+    "name": "Monica Cristina Camargo Neves",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "VETERANO 60 FEM",
+    "total_points": 80,
+    "stages": {
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Maria Vanirde Volpi Da Silva",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "VETERANO 60 FEM",
+    "total_points": 25,
+    "stages": {
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Aparecida Donizete Belini",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "VETERANO 60 FEM",
+    "total_points": 25,
+    "stages": {
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Helena Tomie Isechi Serikawa",
+    "team": "CLUBE ITUANO DE ESPORTES-SP",
+    "category": "VETERANO 60 FEM",
+    "total_points": 25,
+    "stages": {
+      "Assis": 25
+    }
+  },
+  {
+    "name": "Olides  Millezi Júnior",
+    "team": "ATEMEL/ACEL LONDRINA - PR",
+    "category": "VETERANO 60 MAS",
+    "total_points": 520,
+    "stages": {
+      "Marília": 130,
+      "Assis": 130,
+      "Ourinhos": 130,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Luiz  Roberto  Naves",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 60 MAS",
+    "total_points": 250,
+    "stages": {
+      "Marília": 80,
+      "Assis": 45,
+      "Ourinhos": 45,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Carlos Eduardo Paula Perez",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 60 MAS",
+    "total_points": 155,
+    "stages": {
+      "Marília": 25,
+      "Assis": 80,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Renato Bicalho Dias",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "VETERANO 60 MAS",
+    "total_points": 90,
+    "stages": {
+      "Marília": 45,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Shindo Sumiyori",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 60 MAS",
+    "total_points": 90,
+    "stages": {
+      "Ourinhos": 80,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Hugo Dummer",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "VETERANO 60 MAS",
+    "total_points": 90,
+    "stages": {
+      "Marília": 45,
+      "Assis": 10,
+      "Ourinhos": 25,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Wolney Marcos Oliveira Chagas",
+    "team": "BIRIGUI",
+    "category": "VETERANO 60 MAS",
+    "total_points": 85,
+    "stages": {
+      "Marília": 10,
+      "Assis": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Walter Aparecido Canella",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "VETERANO 60 MAS",
+    "total_points": 75,
+    "stages": {
+      "Marília": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Luiz Carlos De Souza",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "VETERANO 60 MAS",
+    "total_points": 70,
+    "stages": {
+      "Marília": 25,
+      "Ourinhos": 45
+    }
+  },
+  {
+    "name": "José Lok Tchong",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "VETERANO 60 MAS",
+    "total_points": 70,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Nilton Pompeu",
+    "team": "DRACENA TM-SP",
+    "category": "VETERANO 60 MAS",
+    "total_points": 65,
+    "stages": {
+      "Marília": 10,
+      "Assis": 45,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Celso Massaru Gakiya",
+    "team": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+    "category": "VETERANO 60 MAS",
+    "total_points": 60,
+    "stages": {
+      "Assis": 25,
+      "Ourinhos": 10,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Frank Onish",
+    "team": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+    "category": "VETERANO 60 MAS",
+    "total_points": 45,
+    "stages": {
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Valter Guarido Marques",
+    "team": "CLUBE LENÇOENSE DE TÊNIS DE MESA-LIGA-SP",
+    "category": "VETERANO 60 MAS",
+    "total_points": 40,
+    "stages": {
+      "Marília": 10,
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Wilfredo Dario Yangali Villegas",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "VETERANO 60 MAS",
+    "total_points": 30,
+    "stages": {
+      "Assis": 10,
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Cristiano Amaral Di Giorgi",
+    "team": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+    "category": "VETERANO 60 MAS",
+    "total_points": 25,
+    "stages": {
+      "Assis": 25
+    }
+  },
+  {
+    "name": "Ademir Ferreira De Souza",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "VETERANO 60 MAS",
+    "total_points": 20,
+    "stages": {
+      "Ourinhos": 10,
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Silvio Roberto Tassinari",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "VETERANO 60 MAS",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Antonio Roberto Ruffino",
+    "team": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+    "category": "VETERANO 60 MAS",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Edison Baptista Barretto Neto",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "VETERANO 60 MAS",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "Shigueo Higashi Hatta",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "VETERANO 60 MAS",
+    "total_points": 10,
+    "stages": {
+      "Araçatuba": 10
+    }
+  },
+  {
+    "name": "José Venâncio Roquejani",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "VETERANO 60 MAS",
+    "total_points": 0,
+    "stages": {}
+  },
+  {
+    "name": "Helia Y  Yoshihara",
+    "team": "TM ÁLVARES MACHADO-LIGA-SP",
+    "category": "VETERANO 70 FEM",
+    "total_points": 520,
+    "stages": {
+      "Marília": 130,
+      "Assis": 130,
+      "Ourinhos": 130,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Helena Yoshiko Matsueda",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "VETERANO 70 FEM",
+    "total_points": 240,
+    "stages": {
+      "Marília": 80,
+      "Assis": 80,
+      "Ourinhos": 80
+    }
+  },
+  {
+    "name": "Leonice De Bastiani",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "VETERANO 70 FEM",
+    "total_points": 195,
+    "stages": {
+      "Marília": 45,
+      "Assis": 45,
+      "Ourinhos": 25,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Maria L T  Makino",
+    "team": "ARAÇA PONG / SMELR ARAÇATUBA – SP",
+    "category": "VETERANO 70 FEM",
+    "total_points": 160,
+    "stages": {
+      "Marília": 45,
+      "Assis": 25,
+      "Ourinhos": 45,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Miyoko Uno Kakitani",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "VETERANO 70 FEM",
+    "total_points": 140,
+    "stages": {
+      "Marília": 25,
+      "Assis": 45,
+      "Ourinhos": 45,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Maria Helena Bottan Berengue",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "VETERANO 70 FEM",
+    "total_points": 100,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Maria Elena Da Silva",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "VETERANO 70 FEM",
+    "total_points": 95,
+    "stages": {
+      "Marília": 25,
+      "Ourinhos": 25,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Neide Morales Da Silva",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "VETERANO 70 FEM",
+    "total_points": 50,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25
+    }
+  },
+  {
+    "name": "Vera Lucia Belini Pasqualini",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "VETERANO 70 FEM",
+    "total_points": 25,
+    "stages": {
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Loide Gouveia Cruz",
+    "team": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+    "category": "VETERANO 70 FEM",
+    "total_points": 25,
+    "stages": {
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Maria Do Carmo Piton De Oliveira",
+    "team": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+    "category": "VETERANO 70 FEM",
+    "total_points": 25,
+    "stages": {
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Mercedes Sanfelice Risso",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 70 FEM",
+    "total_points": 10,
+    "stages": {
+      "Ourinhos": 10
+    }
+  },
+  {
+    "name": "Nilton Toshio Takaoka",
+    "team": "ATEMEL/ACEL LONDRINA - PR",
+    "category": "VETERANO 70 MAS",
+    "total_points": 340,
+    "stages": {
+      "Marília": 130,
+      "Ourinhos": 80,
+      "Araçatuba": 130
+    }
+  },
+  {
+    "name": "Teruo  Tarumoto",
+    "team": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+    "category": "VETERANO 70 MAS",
+    "total_points": 250,
+    "stages": {
+      "Marília": 80,
+      "Assis": 45,
+      "Ourinhos": 45,
+      "Araçatuba": 80
+    }
+  },
+  {
+    "name": "Francesco D J Passa",
+    "team": "ASSOCIAÇÃO OURINHENSE DE BEM ESTAR-SP",
+    "category": "VETERANO 70 MAS",
+    "total_points": 200,
+    "stages": {
+      "Marília": 45,
+      "Assis": 25,
+      "Ourinhos": 130
+    }
+  },
+  {
+    "name": "José Narciso Da Conceição Gesteiro",
+    "team": "DRACENA TM-SP",
+    "category": "VETERANO 70 MAS",
+    "total_points": 180,
+    "stages": {
+      "Marília": 25,
+      "Assis": 130,
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Jorge Atsuki Tsukada",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "VETERANO 70 MAS",
+    "total_points": 160,
+    "stages": {
+      "Marília": 10,
+      "Assis": 80,
+      "Ourinhos": 25,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Rubens Francisco De Campos Junior",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "VETERANO 70 MAS",
+    "total_points": 140,
+    "stages": {
+      "Marília": 25,
+      "Assis": 25,
+      "Ourinhos": 45,
+      "Araçatuba": 45
+    }
+  },
+  {
+    "name": "Mario Minoru Tohyama",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 70 MAS",
+    "total_points": 70,
+    "stages": {
+      "Marília": 45,
+      "Araçatuba": 25
+    }
+  },
+  {
+    "name": "Eugênio Valentim Balan",
+    "team": "ASSOC.DE T.M.OESTE PAULISTA-PRES.PRUDENTE-LIGA-SP",
+    "category": "VETERANO 70 MAS",
+    "total_points": 45,
+    "stages": {
+      "Assis": 45
+    }
+  },
+  {
+    "name": "Ivo De Almeida Mariano",
+    "team": "ACERT TUPÃ - LIGA - SP",
+    "category": "VETERANO 70 MAS",
+    "total_points": 35,
+    "stages": {
+      "Marília": 10,
+      "Assis": 25
+    }
+  },
+  {
+    "name": "Mario Ferreira Da Silva",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "VETERANO 70 MAS",
+    "total_points": 35,
+    "stages": {
+      "Marília": 10,
+      "Assis": 25
+    }
+  },
+  {
+    "name": "Mario Miguel Risso",
+    "team": "ASSOCIAÇÃO CULTURAL E DESPORTIVA DE ASSIS - SP",
+    "category": "VETERANO 70 MAS",
+    "total_points": 25,
+    "stages": {
+      "Ourinhos": 25
+    }
+  },
+  {
+    "name": "Fernando Milanese",
+    "team": "YARA CLUBE/ACADEMIA NELSON MACHADO/SELJ-MARÍLIA-SP",
+    "category": "VETERANO 70 MAS",
+    "total_points": 25,
+    "stages": {
+      "Marília": 25
+    }
+  },
+  {
+    "name": "Paulo Shigueru Yamakami",
+    "team": "DRACENA TM-SP",
+    "category": "VETERANO 70 MAS",
+    "total_points": 25,
+    "stages": {
+      "Marília": 25
+    }
+  },
+  {
+    "name": "Jobayr Antônio Amaral",
+    "team": "ASSOC. NOVA ERA DE T.M.-SP",
+    "category": "VETERANO 70 MAS",
+    "total_points": 25,
+    "stages": {
+      "Araçatuba": 25
+    }
+  }
+]
